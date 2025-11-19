@@ -1,0 +1,4852 @@
+[
+    {
+        "id": "1",
+        "name": "Sushi (Raw Fish)",
+        "category": "Bad",
+        "explanation": "Raw fish may contain parasites or bacteria like listeria that can harm the baby.",
+        "trimester_advice": "Avoid throughout pregnancy. Cooked sushi is generally safe.",
+        "keywords": [
+            "sushi",
+            "sashimi",
+            "raw fish",
+            "tuna roll",
+            "salmon roll"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Unpasteurized Cheese",
+        "category": "Bad",
+        "explanation": "Soft cheeses made with unpasteurized milk can contain Listeria.",
+        "trimester_advice": "Avoid soft cheeses like brie, camembert, and feta unless labeled pasteurized.",
+        "keywords": [
+            "cheese",
+            "brie",
+            "camembert",
+            "feta",
+            "blue cheese",
+            "soft cheese"
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Alcohol",
+        "category": "Bad",
+        "explanation": "No amount of alcohol is proven safe during pregnancy.",
+        "trimester_advice": "Avoid completely.",
+        "keywords": [
+            "beer",
+            "wine",
+            "liquor",
+            "spirits",
+            "cocktail"
+        ]
+    },
+    {
+        "id": "4",
+        "name": "High Mercury Fish",
+        "category": "Bad",
+        "explanation": "High levels of mercury can damage the baby's developing nervous system.",
+        "trimester_advice": "Avoid shark, swordfish, king mackerel, and tilefish.",
+        "keywords": [
+            "shark",
+            "swordfish",
+            "mackerel",
+            "tilefish",
+            "tuna steak"
+        ]
+    },
+    {
+        "id": "5",
+        "name": "Deli Meat",
+        "category": "Not Recommended",
+        "explanation": "Cold cuts can carry Listeria. If you eat them, heat until steaming hot.",
+        "trimester_advice": "Heat to 165°F before eating.",
+        "keywords": [
+            "ham",
+            "turkey",
+            "salami",
+            "bologna",
+            "roast beef",
+            "sandwich meat",
+            "lunch meat"
+        ]
+    },
+    {
+        "id": "6",
+        "name": "Caffeine",
+        "category": "Not Recommended",
+        "explanation": "Limit intake to 200mg per day (about one 12oz cup of coffee).",
+        "trimester_advice": "High intake is linked to low birth weight.",
+        "keywords": [
+            "coffee",
+            "tea",
+            "soda",
+            "energy drink",
+            "espresso"
+        ]
+    },
+    {
+        "id": "7",
+        "name": "Salmon (Cooked)",
+        "category": "Recommended",
+        "explanation": "Excellent source of Omega-3 fatty acids (DHA) which helps brain development.",
+        "trimester_advice": "Aim for 2-3 servings of low-mercury fish per week.",
+        "keywords": [
+            "salmon",
+            "fish",
+            "cooked fish"
+        ]
+    },
+    {
+        "id": "8",
+        "name": "Eggs (Cooked)",
+        "category": "Recommended",
+        "explanation": "Great source of choline and protein.",
+        "trimester_advice": "Ensure yolks are fully cooked to avoid Salmonella.",
+        "keywords": [
+            "eggs",
+            "scrambled eggs",
+            "omelet",
+            "hard boiled eggs"
+        ]
+    },
+    {
+        "id": "9",
+        "name": "Spinach",
+        "category": "Recommended",
+        "explanation": "Rich in folate and iron.",
+        "trimester_advice": "Wash thoroughly before eating raw.",
+        "keywords": [
+            "spinach",
+            "salad",
+            "greens",
+            "leafy greens"
+        ]
+    },
+    {
+        "id": "10",
+        "name": "Raw Sprouts",
+        "category": "Bad",
+        "explanation": "Raw sprouts can contain harmful bacteria like E. coli or Salmonella.",
+        "trimester_advice": "Only consume fully cooked sprouts.",
+        "keywords": [
+            "alfalfa sprouts",
+            "bean sprouts",
+            "raw sprouts"
+        ]
+    },
+    {
+        "id": "11",
+        "name": "Raw Milk",
+        "category": "Bad",
+        "explanation": "Raw milk may contain Listeria and other pathogens.",
+        "trimester_advice": "Choose only pasteurized milk and dairy products.",
+        "keywords": [
+            "raw milk",
+            "unpasteurized milk"
+        ]
+    },
+    {
+        "id": "12",
+        "name": "Hot Dogs",
+        "category": "Not Recommended",
+        "explanation": "Risk of Listeria unless heated thoroughly.",
+        "trimester_advice": "Heat until steaming hot before eating.",
+        "keywords": [
+            "hot dog",
+            "frankfurter",
+            "sausage bun"
+        ]
+    },
+    {
+        "id": "13",
+        "name": "Pepperoni",
+        "category": "Not Recommended",
+        "explanation": "Processed meats may carry bacteria unless cooked.",
+        "trimester_advice": "Safe if cooked on pizza until steaming hot.",
+        "keywords": [
+            "pepperoni",
+            "pizza",
+            "meat topping"
+        ]
+    },
+    {
+        "id": "14",
+        "name": "Smoked Salmon (Cold Smoked)",
+        "category": "Not Recommended",
+        "explanation": "Cold smoked fish can carry Listeria.",
+        "trimester_advice": "Safe only when fully cooked or heated in a dish.",
+        "keywords": [
+            "lox",
+            "smoked salmon",
+            "bagel salmon"
+        ]
+    },
+    {
+        "id": "15",
+        "name": "Shrimp (Cooked)",
+        "category": "Recommended",
+        "explanation": "Low mercury and high in protein.",
+        "trimester_advice": "Enjoy fully cooked shrimp.",
+        "keywords": [
+            "shrimp",
+            "prawns",
+            "seafood"
+        ]
+    },
+    {
+        "id": "16",
+        "name": "Liver",
+        "category": "Not Recommended",
+        "explanation": "High in vitamin A which can be harmful in excess.",
+        "trimester_advice": "Limit or avoid especially in first trimester.",
+        "keywords": [
+            "liver",
+            "pate",
+            "liverwurst"
+        ]
+    },
+    {
+        "id": "17",
+        "name": "Pate",
+        "category": "Bad",
+        "explanation": "Often unpasteurized and may contain Listeria.",
+        "trimester_advice": "Avoid throughout pregnancy.",
+        "keywords": [
+            "pate",
+            "meat spread"
+        ]
+    },
+    {
+        "id": "18",
+        "name": "Raw Eggs",
+        "category": "Bad",
+        "explanation": "High risk of Salmonella.",
+        "trimester_advice": "Avoid raw or runny eggs and foods made with them.",
+        "keywords": [
+            "raw egg",
+            "cookie dough",
+            "mayo",
+            "aioli"
+        ]
+    },
+    {
+        "id": "19",
+        "name": "Mayonnaise (Pasteurized)",
+        "category": "Recommended",
+        "explanation": "Commercial mayo is pasteurized and safe.",
+        "trimester_advice": "Avoid homemade mayo with raw eggs.",
+        "keywords": [
+            "mayo",
+            "mayonnaise",
+            "spread"
+        ]
+    },
+    {
+        "id": "20",
+        "name": "Peanut Butter",
+        "category": "Recommended",
+        "explanation": "Healthy fats and protein.",
+        "trimester_advice": "Safe unless you have an allergy.",
+        "keywords": [
+            "peanut butter",
+            "peanuts",
+            "nut butter"
+        ]
+    },
+    {
+        "id": "21",
+        "name": "Soft Serve Ice Cream",
+        "category": "Not Recommended",
+        "explanation": "Machines can harbor Listeria if not cleaned well.",
+        "trimester_advice": "Choose packaged ice cream when possible.",
+        "keywords": [
+            "soft serve",
+            "ice cream",
+            "frozen dessert"
+        ]
+    },
+    {
+        "id": "22",
+        "name": "Raw Cookie Dough",
+        "category": "Bad",
+        "explanation": "Contains raw eggs and sometimes raw flour.",
+        "trimester_advice": "Avoid entirely.",
+        "keywords": [
+            "raw cookie dough",
+            "cookie dough"
+        ]
+    },
+    {
+        "id": "23",
+        "name": "Raw Flour",
+        "category": "Bad",
+        "explanation": "Raw flour can contain E. coli.",
+        "trimester_advice": "Only eat baked or cooked doughs.",
+        "keywords": [
+            "flour",
+            "uncooked batter"
+        ]
+    },
+    {
+        "id": "24",
+        "name": "Kombucha",
+        "category": "Not Recommended",
+        "explanation": "Contains caffeine, alcohol, and unregulated bacteria.",
+        "trimester_advice": "Avoid or limit heavily.",
+        "keywords": [
+            "kombucha",
+            "fermented tea"
+        ]
+    },
+    {
+        "id": "25",
+        "name": "Energy Drinks",
+        "category": "Bad",
+        "explanation": "Contain very high caffeine and additives.",
+        "trimester_advice": "Avoid during pregnancy.",
+        "keywords": [
+            "energy drink",
+            "monster",
+            "red bull"
+        ]
+    },
+    {
+        "id": "26",
+        "name": "Herbal Tea",
+        "category": "Not Recommended",
+        "explanation": "Some herbs are not tested in pregnancy.",
+        "trimester_advice": "Only consume teas labeled pregnancy safe.",
+        "keywords": [
+            "herbal tea",
+            "mint tea",
+            "chamomile"
+        ]
+    },
+    {
+        "id": "27",
+        "name": "Chamomile Tea",
+        "category": "Not Recommended",
+        "explanation": "Chamomile may cause uterine contractions.",
+        "trimester_advice": "Only drink if approved by a doctor.",
+        "keywords": [
+            "chamomile",
+            "tea"
+        ]
+    },
+    {
+        "id": "28",
+        "name": "Green Tea",
+        "category": "Not Recommended",
+        "explanation": "Contains caffeine and can interfere with folate absorption.",
+        "trimester_advice": "Limit to 1 cup per day.",
+        "keywords": [
+            "green tea",
+            "tea"
+        ]
+    },
+    {
+        "id": "29",
+        "name": "Protein Powder",
+        "category": "Not Recommended",
+        "explanation": "Supplements are not regulated and may contain additives.",
+        "trimester_advice": "Choose pregnancy approved brands only.",
+        "keywords": [
+            "protein powder",
+            "shake",
+            "supplement"
+        ]
+    },
+    {
+        "id": "30",
+        "name": "Greek Yogurt",
+        "category": "Recommended",
+        "explanation": "High in calcium and protein.",
+        "trimester_advice": "Choose pasteurized varieties.",
+        "keywords": [
+            "greek yogurt",
+            "yogurt"
+        ]
+    },
+    {
+        "id": "31",
+        "name": "Avocado",
+        "category": "Recommended",
+        "explanation": "Rich in folate, healthy fats, and fiber.",
+        "trimester_advice": "Great for all trimesters.",
+        "keywords": [
+            "avocado",
+            "guacamole"
+        ]
+    },
+    {
+        "id": "32",
+        "name": "Bananas",
+        "category": "Recommended",
+        "explanation": "High in potassium which helps with leg cramps.",
+        "trimester_advice": "Eat anytime.",
+        "keywords": [
+            "banana",
+            "fruit"
+        ]
+    },
+    {
+        "id": "33",
+        "name": "Apples",
+        "category": "Recommended",
+        "explanation": "Good fiber and vitamins.",
+        "trimester_advice": "Wash thoroughly.",
+        "keywords": [
+            "apples",
+            "fruit"
+        ]
+    },
+    {
+        "id": "34",
+        "name": "Berries",
+        "category": "Recommended",
+        "explanation": "High in antioxidants and vitamin C.",
+        "trimester_advice": "Wash before eating.",
+        "keywords": [
+            "blueberries",
+            "raspberries",
+            "berries"
+        ]
+    },
+    {
+        "id": "35",
+        "name": "Pineapple",
+        "category": "Recommended",
+        "explanation": "Safe during pregnancy. Bromelain content is too low to cause issues.",
+        "trimester_advice": "Eat in moderation.",
+        "keywords": [
+            "pineapple",
+            "fruit"
+        ]
+    },
+    {
+        "id": "36",
+        "name": "Watermelon",
+        "category": "Recommended",
+        "explanation": "Hydrating and rich in vitamins.",
+        "trimester_advice": "Great in third trimester for swelling.",
+        "keywords": [
+            "watermelon",
+            "melon"
+        ]
+    },
+    {
+        "id": "37",
+        "name": "Grapes",
+        "category": "Recommended",
+        "explanation": "High in antioxidants.",
+        "trimester_advice": "Eat washed grapes only.",
+        "keywords": [
+            "grapes",
+            "fruit"
+        ]
+    },
+    {
+        "id": "38",
+        "name": "Papaya (Ripe)",
+        "category": "Recommended",
+        "explanation": "Ripe papaya is safe and nutritious.",
+        "trimester_advice": "Avoid unripe papaya.",
+        "keywords": [
+            "papaya",
+            "ripe papaya"
+        ]
+    },
+    {
+        "id": "39",
+        "name": "Papaya (Unripe)",
+        "category": "Bad",
+        "explanation": "Unripe papaya contains latex which may cause contractions.",
+        "trimester_advice": "Avoid completely.",
+        "keywords": [
+            "unripe papaya",
+            "green papaya"
+        ]
+    },
+    {
+        "id": "40",
+        "name": "Ginger",
+        "category": "Recommended",
+        "explanation": "Helps reduce nausea.",
+        "trimester_advice": "Limit to moderate amounts.",
+        "keywords": [
+            "ginger",
+            "ginger tea",
+            "ginger ale"
+        ]
+    },
+    {
+        "id": "41",
+        "name": "Honey",
+        "category": "Recommended",
+        "explanation": "Safe for pregnant adults since digestion neutralizes bacteria.",
+        "trimester_advice": "Avoid giving honey to infants after birth.",
+        "keywords": [
+            "honey",
+            "raw honey"
+        ]
+    },
+    {
+        "id": "42",
+        "name": "Cottage Cheese",
+        "category": "Recommended",
+        "explanation": "High protein and calcium.",
+        "trimester_advice": "Choose pasteurized only.",
+        "keywords": [
+            "cottage cheese",
+            "cheese"
+        ]
+    },
+    {
+        "id": "43",
+        "name": "Tofu",
+        "category": "Recommended",
+        "explanation": "Great vegetarian protein.",
+        "trimester_advice": "Fully cook to reduce contamination risk.",
+        "keywords": [
+            "tofu",
+            "soy"
+        ]
+    },
+    {
+        "id": "44",
+        "name": "Soy Sauce",
+        "category": "Not Recommended",
+        "explanation": "Very high sodium.",
+        "trimester_advice": "Use in small amounts.",
+        "keywords": [
+            "soy sauce",
+            "sauce"
+        ]
+    },
+    {
+        "id": "45",
+        "name": "Kimchi",
+        "category": "Not Recommended",
+        "explanation": "Fermented foods can cause stomach issues.",
+        "trimester_advice": "Eat only pasteurized versions.",
+        "keywords": [
+            "kimchi",
+            "fermented"
+        ]
+    },
+    {
+        "id": "46",
+        "name": "Pickles",
+        "category": "Recommended",
+        "explanation": "Safe and good for cravings, though high sodium.",
+        "trimester_advice": "Enjoy in moderation.",
+        "keywords": [
+            "pickles",
+            "pickle"
+        ]
+    },
+    {
+        "id": "47",
+        "name": "Hummus",
+        "category": "Not Recommended",
+        "explanation": "Store bought hummus has a small Listeria risk.",
+        "trimester_advice": "Choose fresh or heat before eating.",
+        "keywords": [
+            "hummus",
+            "dip"
+        ]
+    },
+    {
+        "id": "48",
+        "name": "Tuna (Canned Light)",
+        "category": "Not Recommended",
+        "explanation": "Contains some mercury but lower than tuna steaks.",
+        "trimester_advice": "Limit to 2 to 3 servings a week.",
+        "keywords": [
+            "tuna",
+            "canned tuna"
+        ]
+    },
+    {
+        "id": "49",
+        "name": "Tuna Steak",
+        "category": "Not Recommended",
+        "explanation": "Moderate to high mercury.",
+        "trimester_advice": "Limit or avoid.",
+        "keywords": [
+            "tuna steak",
+            "ahi tuna"
+        ]
+    },
+    {
+        "id": "50",
+        "name": "Crab",
+        "category": "Recommended",
+        "explanation": "Low mercury and high protein.",
+        "trimester_advice": "Eat fully cooked crab only.",
+        "keywords": [
+            "crab",
+            "seafood"
+        ]
+    },
+    {
+        "id": "51",
+        "name": "Lobster",
+        "category": "Recommended",
+        "explanation": "Low mercury and nutrient rich.",
+        "trimester_advice": "Safe when fully cooked.",
+        "keywords": [
+            "lobster",
+            "seafood"
+        ]
+    },
+    {
+        "id": "52",
+        "name": "Clams",
+        "category": "Not Recommended",
+        "explanation": "Can cause illness if undercooked.",
+        "trimester_advice": "Eat only fully cooked clams.",
+        "keywords": [
+            "clams",
+            "shellfish"
+        ]
+    },
+    {
+        "id": "53",
+        "name": "Oysters (Raw)",
+        "category": "Bad",
+        "explanation": "Raw oysters can contain Vibrio bacteria.",
+        "trimester_advice": "Avoid completely.",
+        "keywords": [
+            "oysters",
+            "raw oysters"
+        ]
+    },
+    {
+        "id": "54",
+        "name": "Oysters (Cooked)",
+        "category": "Not Recommended",
+        "explanation": "Safe when fully cooked, but may cause digestive issues.",
+        "trimester_advice": "Eat in moderation.",
+        "keywords": [
+            "oysters cooked",
+            "seafood"
+        ]
+    },
+    {
+        "id": "55",
+        "name": "Beef (Well Cooked)",
+        "category": "Recommended",
+        "explanation": "High iron and protein.",
+        "trimester_advice": "Cook to safe temperature.",
+        "keywords": [
+            "beef",
+            "steak",
+            "ground beef"
+        ]
+    },
+    {
+        "id": "56",
+        "name": "Steak (Medium Rare)",
+        "category": "Not Recommended",
+        "explanation": "Undercooked meat may contain harmful bacteria.",
+        "trimester_advice": "Choose well done.",
+        "keywords": [
+            "steak",
+            "medium rare"
+        ]
+    },
+    {
+        "id": "57",
+        "name": "Chicken (Cooked)",
+        "category": "Recommended",
+        "explanation": "Lean protein source.",
+        "trimester_advice": "Cook fully to avoid Salmonella.",
+        "keywords": [
+            "chicken",
+            "poultry"
+        ]
+    },
+    {
+        "id": "58",
+        "name": "Chicken Liver",
+        "category": "Not Recommended",
+        "explanation": "Very high in vitamin A.",
+        "trimester_advice": "Limit strongly.",
+        "keywords": [
+            "chicken liver",
+            "liver"
+        ]
+    },
+    {
+        "id": "59",
+        "name": "Turkey",
+        "category": "Recommended",
+        "explanation": "Lean protein and iron.",
+        "trimester_advice": "Cook thoroughly.",
+        "keywords": [
+            "turkey",
+            "poultry"
+        ]
+    },
+    {
+        "id": "60",
+        "name": "Bacon",
+        "category": "Not Recommended",
+        "explanation": "High sodium and nitrates.",
+        "trimester_advice": "Eat well cooked and in moderation.",
+        "keywords": [
+            "bacon",
+            "pork"
+        ]
+    },
+    {
+        "id": "61",
+        "name": "Ham",
+        "category": "Not Recommended",
+        "explanation": "Deli ham can carry Listeria.",
+        "trimester_advice": "Heat to steaming.",
+        "keywords": [
+            "ham",
+            "deli meat"
+        ]
+    },
+    {
+        "id": "62",
+        "name": "Sausage",
+        "category": "Not Recommended",
+        "explanation": "Risk of contamination if undercooked.",
+        "trimester_advice": "Cook thoroughly.",
+        "keywords": [
+            "sausage",
+            "pork sausage"
+        ]
+    },
+    {
+        "id": "63",
+        "name": "Prosciutto",
+        "category": "Bad",
+        "explanation": "Dry cured meats are not cooked and may contain pathogens.",
+        "trimester_advice": "Avoid unless fully cooked in dishes.",
+        "keywords": [
+            "prosciutto",
+            "cured meat"
+        ]
+    },
+    {
+        "id": "64",
+        "name": "Pancetta",
+        "category": "Bad",
+        "explanation": "Uncooked cured meat.",
+        "trimester_advice": "Safe only when cooked thoroughly in dishes.",
+        "keywords": [
+            "pancetta",
+            "cured pork"
+        ]
+    },
+    {
+        "id": "65",
+        "name": "Salami",
+        "category": "Not Recommended",
+        "explanation": "Processed meat with small risk of contamination.",
+        "trimester_advice": "Heat before eating.",
+        "keywords": [
+            "salami",
+            "cured meat"
+        ]
+    },
+    {
+        "id": "66",
+        "name": "Pizza",
+        "category": "Recommended",
+        "explanation": "Safe when toppings are cooked.",
+        "trimester_advice": "Avoid pizzas with raw sprouts or unpasteurized cheeses.",
+        "keywords": [
+            "pizza",
+            "cheese pizza"
+        ]
+    },
+    {
+        "id": "67",
+        "name": "Sourdough Bread",
+        "category": "Recommended",
+        "explanation": "Safe and nutritious carb source.",
+        "trimester_advice": "Eat anytime.",
+        "keywords": [
+            "bread",
+            "sourdough"
+        ]
+    },
+    {
+        "id": "68",
+        "name": "White Bread",
+        "category": "Not Recommended",
+        "explanation": "Low fiber and causes blood sugar spikes.",
+        "trimester_advice": "Choose whole grain when possible.",
+        "keywords": [
+            "white bread",
+            "bread"
+        ]
+    },
+    {
+        "id": "69",
+        "name": "Whole Grain Bread",
+        "category": "Recommended",
+        "explanation": "High fiber and nutrients.",
+        "trimester_advice": "Great for preventing constipation.",
+        "keywords": [
+            "whole grain",
+            "bread"
+        ]
+    },
+    {
+        "id": "70",
+        "name": "Rice (Cooked)",
+        "category": "Recommended",
+        "explanation": "Good source of energy.",
+        "trimester_advice": "Choose brown rice for fiber.",
+        "keywords": [
+            "rice",
+            "white rice",
+            "brown rice"
+        ]
+    },
+    {
+        "id": "71",
+        "name": "Rice (Leftovers Older Than 24 Hours)",
+        "category": "Bad",
+        "explanation": "May contain Bacillus cereus toxins.",
+        "trimester_advice": "Avoid old rice.",
+        "keywords": [
+            "leftover rice",
+            "old rice"
+        ]
+    },
+    {
+        "id": "72",
+        "name": "Pasta",
+        "category": "Recommended",
+        "explanation": "Good carb source.",
+        "trimester_advice": "Choose whole grain for added nutrition.",
+        "keywords": [
+            "pasta",
+            "noodles"
+        ]
+    },
+    {
+        "id": "73",
+        "name": "Instant Noodles",
+        "category": "Not Recommended",
+        "explanation": "High sodium and low nutrients.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "ramen",
+            "instant noodles"
+        ]
+    },
+    {
+        "id": "74",
+        "name": "Oatmeal",
+        "category": "Recommended",
+        "explanation": "High fiber and steady energy.",
+        "trimester_advice": "Beneficial for nausea.",
+        "keywords": [
+            "oats",
+            "oatmeal"
+        ]
+    },
+    {
+        "id": "75",
+        "name": "Cereal",
+        "category": "Recommended",
+        "explanation": "Often fortified with folic acid.",
+        "trimester_advice": "Choose low sugar types.",
+        "keywords": [
+            "cereal",
+            "breakfast cereal"
+        ]
+    },
+    {
+        "id": "76",
+        "name": "Granola",
+        "category": "Not Recommended",
+        "explanation": "Often high in sugar.",
+        "trimester_advice": "Choose small portions.",
+        "keywords": [
+            "granola",
+            "breakfast"
+        ]
+    },
+    {
+        "id": "77",
+        "name": "Dark Chocolate",
+        "category": "Recommended",
+        "explanation": "Contains antioxidants and may boost mood.",
+        "trimester_advice": "Moderation due to caffeine.",
+        "keywords": [
+            "dark chocolate",
+            "chocolate"
+        ]
+    },
+    {
+        "id": "78",
+        "name": "Milk Chocolate",
+        "category": "Not Recommended",
+        "explanation": "Higher sugar and caffeine.",
+        "trimester_advice": "Enjoy occasionally.",
+        "keywords": [
+            "milk chocolate",
+            "chocolate"
+        ]
+    },
+    {
+        "id": "79",
+        "name": "Ice Cream",
+        "category": "Recommended",
+        "explanation": "Pasteurized and safe.",
+        "trimester_advice": "Watch added sugar.",
+        "keywords": [
+            "ice cream",
+            "dessert"
+        ]
+    },
+    {
+        "id": "80",
+        "name": "Frozen Yogurt",
+        "category": "Recommended",
+        "explanation": "Lower fat alternative to ice cream.",
+        "trimester_advice": "Choose pasteurized only.",
+        "keywords": [
+            "frozen yogurt",
+            "froyo"
+        ]
+    },
+    {
+        "id": "81",
+        "name": "Cantaloupe",
+        "category": "Not Recommended",
+        "explanation": "Whole melons can carry Listeria on the rind.",
+        "trimester_advice": "Wash well before slicing.",
+        "keywords": [
+            "cantaloupe",
+            "melon"
+        ]
+    },
+    {
+        "id": "82",
+        "name": "Celery",
+        "category": "Recommended",
+        "explanation": "Hydrating and low calorie.",
+        "trimester_advice": "Wash well.",
+        "keywords": [
+            "celery",
+            "vegetable"
+        ]
+    },
+    {
+        "id": "83",
+        "name": "Carrots",
+        "category": "Recommended",
+        "explanation": "High in vitamin A but safe in food form.",
+        "trimester_advice": "Eat cooked or raw.",
+        "keywords": [
+            "carrots",
+            "vegetables"
+        ]
+    },
+    {
+        "id": "84",
+        "name": "Broccoli",
+        "category": "Recommended",
+        "explanation": "High in folate, calcium, and fiber.",
+        "trimester_advice": "Cook lightly or eat raw if washed.",
+        "keywords": [
+            "broccoli",
+            "vegetable"
+        ]
+    },
+    {
+        "id": "85",
+        "name": "Cauliflower",
+        "category": "Recommended",
+        "explanation": "Rich in vitamins C and K.",
+        "trimester_advice": "Include in balanced meals.",
+        "keywords": [
+            "cauliflower",
+            "vegetable"
+        ]
+    },
+    {
+        "id": "86",
+        "name": "Mushrooms (Cooked)",
+        "category": "Recommended",
+        "explanation": "Good source of B vitamins.",
+        "trimester_advice": "Cook well.",
+        "keywords": [
+            "mushrooms",
+            "cooked mushrooms"
+        ]
+    },
+    {
+        "id": "87",
+        "name": "Mushrooms (Raw)",
+        "category": "Not Recommended",
+        "explanation": "Raw mushrooms may carry bacteria.",
+        "trimester_advice": "Eat only cooked mushrooms.",
+        "keywords": [
+            "raw mushrooms",
+            "mushrooms"
+        ]
+    },
+    {
+        "id": "88",
+        "name": "Leafy Greens",
+        "category": "Recommended",
+        "explanation": "High in folate and iron.",
+        "trimester_advice": "Wash thoroughly.",
+        "keywords": [
+            "greens",
+            "lettuce",
+            "kale"
+        ]
+    },
+    {
+        "id": "89",
+        "name": "Kale",
+        "category": "Recommended",
+        "explanation": "Nutrient dense superfood.",
+        "trimester_advice": "Wash very well to remove bacteria.",
+        "keywords": [
+            "kale",
+            "greens"
+        ]
+    },
+    {
+        "id": "90",
+        "name": "Beets",
+        "category": "Recommended",
+        "explanation": "High in folate and fiber.",
+        "trimester_advice": "Eat cooked or roasted.",
+        "keywords": [
+            "beets",
+            "vegetable"
+        ]
+    },
+    {
+        "id": "91",
+        "name": "French Fries",
+        "category": "Not Recommended",
+        "explanation": "High in unhealthy fats and salt.",
+        "trimester_advice": "Enjoy occasionally.",
+        "keywords": [
+            "fries",
+            "fast food"
+        ]
+    },
+    {
+        "id": "92",
+        "name": "Potato Chips",
+        "category": "Not Recommended",
+        "explanation": "High in sodium and additives.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "chips",
+            "snacks"
+        ]
+    },
+    {
+        "id": "93",
+        "name": "Popcorn",
+        "category": "Recommended",
+        "explanation": "High fiber snack.",
+        "trimester_advice": "Choose air popped.",
+        "keywords": [
+            "popcorn",
+            "snack"
+        ]
+    },
+    {
+        "id": "94",
+        "name": "Nuts",
+        "category": "Recommended",
+        "explanation": "Healthy fats and protein.",
+        "trimester_advice": "Great snack for all trimesters.",
+        "keywords": [
+            "nuts",
+            "almonds",
+            "walnuts"
+        ]
+    },
+    {
+        "id": "95",
+        "name": "Trail Mix",
+        "category": "Not Recommended",
+        "explanation": "Often high in added sugar.",
+        "trimester_advice": "Choose mixes without candy.",
+        "keywords": [
+            "trail mix",
+            "snack"
+        ]
+    },
+    {
+        "id": "96",
+        "name": "Smoothies",
+        "category": "Recommended",
+        "explanation": "Nutritious if made with pasteurized ingredients.",
+        "trimester_advice": "Avoid smoothies from unclean shops.",
+        "keywords": [
+            "smoothie",
+            "fruit smoothie"
+        ]
+    },
+    {
+        "id": "97",
+        "name": "Milkshakes",
+        "category": "Not Recommended",
+        "explanation": "High sugar and often made with soft serve.",
+        "trimester_advice": "Choose shakes made with pasteurized ice cream.",
+        "keywords": [
+            "milkshake",
+            "shake"
+        ]
+    },
+    {
+        "id": "98",
+        "name": "Salsa",
+        "category": "Recommended",
+        "explanation": "Nutritious but can be acidic.",
+        "trimester_advice": "Ensure ingredients are fresh.",
+        "keywords": [
+            "salsa",
+            "dip"
+        ]
+    },
+    {
+        "id": "99",
+        "name": "Guacamole",
+        "category": "Recommended",
+        "explanation": "Rich in folate and healthy fats.",
+        "trimester_advice": "Eat fresh and stored properly.",
+        "keywords": [
+            "guacamole",
+            "avocado dip"
+        ]
+    },
+    {
+        "id": "100",
+        "name": "Soda",
+        "category": "Not Recommended",
+        "explanation": "High sugar and may contain caffeine.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "soda",
+            "cola",
+            "soft drink"
+        ]
+    },
+    {
+        "id": "101",
+        "name": "Romaine Lettuce",
+        "category": "Recommended",
+        "explanation": "High in folate and hydration.",
+        "trimester_advice": "Wash thoroughly before eating.",
+        "keywords": [
+            "romaine",
+            "lettuce",
+            "greens"
+        ]
+    },
+    {
+        "id": "102",
+        "name": "Iceberg Lettuce",
+        "category": "Recommended",
+        "explanation": "Hydrating but lower in nutrients.",
+        "trimester_advice": "Wash thoroughly.",
+        "keywords": [
+            "iceberg",
+            "lettuce"
+        ]
+    },
+    {
+        "id": "103",
+        "name": "Arugula",
+        "category": "Recommended",
+        "explanation": "Nutritious leafy green with antioxidants.",
+        "trimester_advice": "Wash before eating.",
+        "keywords": [
+            "arugula",
+            "greens"
+        ]
+    },
+    {
+        "id": "104",
+        "name": "Swiss Chard",
+        "category": "Recommended",
+        "explanation": "High in vitamin K and fiber.",
+        "trimester_advice": "Cook lightly or wash raw leaves well.",
+        "keywords": [
+            "swiss chard",
+            "greens"
+        ]
+    },
+    {
+        "id": "105",
+        "name": "Collard Greens",
+        "category": "Recommended",
+        "explanation": "Iron and calcium rich vegetable.",
+        "trimester_advice": "Cook to improve digestion.",
+        "keywords": [
+            "collard greens",
+            "greens"
+        ]
+    },
+    {
+        "id": "106",
+        "name": "Brussels Sprouts",
+        "category": "Recommended",
+        "explanation": "High in fiber and folate.",
+        "trimester_advice": "Cook thoroughly.",
+        "keywords": [
+            "brussels sprouts",
+            "vegetables"
+        ]
+    },
+    {
+        "id": "107",
+        "name": "Sweet Potatoes",
+        "category": "Recommended",
+        "explanation": "Rich in beta carotene and fiber.",
+        "trimester_advice": "Eat baked or steamed.",
+        "keywords": [
+            "sweet potatoes",
+            "yams"
+        ]
+    },
+    {
+        "id": "108",
+        "name": "White Potatoes",
+        "category": "Recommended",
+        "explanation": "Good source of potassium.",
+        "trimester_advice": "Eat baked instead of fried.",
+        "keywords": [
+            "potatoes",
+            "white potatoes"
+        ]
+    },
+    {
+        "id": "109",
+        "name": "Onions",
+        "category": "Recommended",
+        "explanation": "Rich in antioxidants.",
+        "trimester_advice": "Safe raw or cooked.",
+        "keywords": [
+            "onions",
+            "vegetables"
+        ]
+    },
+    {
+        "id": "110",
+        "name": "Garlic",
+        "category": "Recommended",
+        "explanation": "Supports immune health.",
+        "trimester_advice": "Use in moderation if sensitive.",
+        "keywords": [
+            "garlic",
+            "seasoning"
+        ]
+    },
+    {
+        "id": "111",
+        "name": "Leeks",
+        "category": "Recommended",
+        "explanation": "Good source of vitamins A and K.",
+        "trimester_advice": "Cook thoroughly.",
+        "keywords": [
+            "leeks",
+            "vegetables"
+        ]
+    },
+    {
+        "id": "112",
+        "name": "Green Onions",
+        "category": "Recommended",
+        "explanation": "Adds vitamins and flavor.",
+        "trimester_advice": "Wash well if eaten raw.",
+        "keywords": [
+            "green onions",
+            "scallions"
+        ]
+    },
+    {
+        "id": "113",
+        "name": "Chives",
+        "category": "Recommended",
+        "explanation": "Safe seasoning option.",
+        "trimester_advice": "Use freely in meals.",
+        "keywords": [
+            "chives",
+            "herbs"
+        ]
+    },
+    {
+        "id": "114",
+        "name": "Cilantro",
+        "category": "Recommended",
+        "explanation": "Good source of antioxidants.",
+        "trimester_advice": "Wash leaves to remove dirt.",
+        "keywords": [
+            "cilantro",
+            "herbs"
+        ]
+    },
+    {
+        "id": "115",
+        "name": "Parsley",
+        "category": "Recommended",
+        "explanation": "Vitamin rich herb.",
+        "trimester_advice": "Safe in normal food amounts.",
+        "keywords": [
+            "parsley",
+            "herbs"
+        ]
+    },
+    {
+        "id": "116",
+        "name": "Basil",
+        "category": "Recommended",
+        "explanation": "Safe herb with antioxidants.",
+        "trimester_advice": "Wash before use.",
+        "keywords": [
+            "basil",
+            "herbs"
+        ]
+    },
+    {
+        "id": "117",
+        "name": "Oregano",
+        "category": "Recommended",
+        "explanation": "Safe dried or fresh.",
+        "trimester_advice": "Use in normal food amounts.",
+        "keywords": [
+            "oregano",
+            "herbs"
+        ]
+    },
+    {
+        "id": "118",
+        "name": "Thyme",
+        "category": "Recommended",
+        "explanation": "Safe culinary herb.",
+        "trimester_advice": "Use freely as seasoning.",
+        "keywords": [
+            "thyme",
+            "herbs"
+        ]
+    },
+    {
+        "id": "119",
+        "name": "Rosemary",
+        "category": "Recommended",
+        "explanation": "Antioxidant rich herb.",
+        "trimester_advice": "Avoid essential oils but food amounts are safe.",
+        "keywords": [
+            "rosemary",
+            "herbs"
+        ]
+    },
+    {
+        "id": "120",
+        "name": "Sage",
+        "category": "Recommended",
+        "explanation": "Safe in culinary amounts.",
+        "trimester_advice": "Avoid medicinal doses.",
+        "keywords": [
+            "sage",
+            "herbs"
+        ]
+    },
+    {
+        "id": "121",
+        "name": "Pumpkin",
+        "category": "Recommended",
+        "explanation": "High in fiber and vitamin A.",
+        "trimester_advice": "Safe cooked or roasted.",
+        "keywords": [
+            "pumpkin",
+            "vegetable"
+        ]
+    },
+    {
+        "id": "122",
+        "name": "Pumpkin Seeds",
+        "category": "Recommended",
+        "explanation": "Great source of magnesium.",
+        "trimester_advice": "Eat roasted for best safety.",
+        "keywords": [
+            "pumpkin seeds",
+            "seeds"
+        ]
+    },
+    {
+        "id": "123",
+        "name": "Sunflower Seeds",
+        "category": "Recommended",
+        "explanation": "Good source of healthy fats.",
+        "trimester_advice": "Eat roasted or salted.",
+        "keywords": [
+            "sunflower seeds",
+            "seeds"
+        ]
+    },
+    {
+        "id": "124",
+        "name": "Chia Seeds",
+        "category": "Recommended",
+        "explanation": "High in fiber and omega 3 fats.",
+        "trimester_advice": "Drink water to avoid constipation.",
+        "keywords": [
+            "chia",
+            "chia seeds"
+        ]
+    },
+    {
+        "id": "125",
+        "name": "Flax Seeds",
+        "category": "Recommended",
+        "explanation": "Provides fiber and omega 3s.",
+        "trimester_advice": "Use ground flax for absorption.",
+        "keywords": [
+            "flax seeds",
+            "seeds"
+        ]
+    },
+    {
+        "id": "126",
+        "name": "Sesame Seeds",
+        "category": "Recommended",
+        "explanation": "Nutrient rich seed used in many dishes.",
+        "trimester_advice": "Safe in normal amounts.",
+        "keywords": [
+            "sesame seeds",
+            "seeds"
+        ]
+    },
+    {
+        "id": "127",
+        "name": "Poppy Seeds",
+        "category": "Not Recommended",
+        "explanation": "May contain trace opiates from processing.",
+        "trimester_advice": "Consume rarely.",
+        "keywords": [
+            "poppy seeds",
+            "seeds"
+        ]
+    },
+    {
+        "id": "128",
+        "name": "Almonds",
+        "category": "Recommended",
+        "explanation": "Healthy fats and protein.",
+        "trimester_advice": "Soak if experiencing digestive issues.",
+        "keywords": [
+            "almonds",
+            "nuts"
+        ]
+    },
+    {
+        "id": "129",
+        "name": "Cashews",
+        "category": "Recommended",
+        "explanation": "Good source of iron and zinc.",
+        "trimester_advice": "Eat in moderation.",
+        "keywords": [
+            "cashews",
+            "nuts"
+        ]
+    },
+    {
+        "id": "130",
+        "name": "Pistachios",
+        "category": "Recommended",
+        "explanation": "Rich in healthy fats.",
+        "trimester_advice": "Choose unsalted if possible.",
+        "keywords": [
+            "pistachios",
+            "nuts"
+        ]
+    },
+    {
+        "id": "131",
+        "name": "Walnuts",
+        "category": "Recommended",
+        "explanation": "High in omega 3.",
+        "trimester_advice": "Good brain boosting snack.",
+        "keywords": [
+            "walnuts",
+            "nuts"
+        ]
+    },
+    {
+        "id": "132",
+        "name": "Hazelnuts",
+        "category": "Recommended",
+        "explanation": "Good source of vitamin E.",
+        "trimester_advice": "Safe anytime.",
+        "keywords": [
+            "hazelnuts",
+            "nuts"
+        ]
+    },
+    {
+        "id": "133",
+        "name": "Macadamia Nuts",
+        "category": "Recommended",
+        "explanation": "Rich in healthy fats.",
+        "trimester_advice": "Eat in moderation due to calories.",
+        "keywords": [
+            "macadamia",
+            "nuts"
+        ]
+    },
+    {
+        "id": "134",
+        "name": "Pecan Nuts",
+        "category": "Recommended",
+        "explanation": "Good nutrient profile.",
+        "trimester_advice": "Safe as snack.",
+        "keywords": [
+            "pecans",
+            "nuts"
+        ]
+    },
+    {
+        "id": "135",
+        "name": "Brazil Nuts",
+        "category": "Not Recommended",
+        "explanation": "Very high in selenium.",
+        "trimester_advice": "Limit to 1 to 2 per day.",
+        "keywords": [
+            "brazil nuts",
+            "nuts"
+        ]
+    },
+    {
+        "id": "136",
+        "name": "Cranberries",
+        "category": "Recommended",
+        "explanation": "Support urinary tract health.",
+        "trimester_advice": "Avoid sugary cranberry cocktails.",
+        "keywords": [
+            "cranberries",
+            "fruit"
+        ]
+    },
+    {
+        "id": "137",
+        "name": "Cranberry Juice",
+        "category": "Not Recommended",
+        "explanation": "Often high in sugar.",
+        "trimester_advice": "Choose 100 percent juice.",
+        "keywords": [
+            "cranberry juice",
+            "juice"
+        ]
+    },
+    {
+        "id": "138",
+        "name": "Orange Juice",
+        "category": "Not Recommended",
+        "explanation": "High sugar and acidity.",
+        "trimester_advice": "Limit to small servings.",
+        "keywords": [
+            "orange juice",
+            "juice"
+        ]
+    },
+    {
+        "id": "139",
+        "name": "Lemon Juice",
+        "category": "Recommended",
+        "explanation": "Helps with nausea.",
+        "trimester_advice": "Dilute if heartburn occurs.",
+        "keywords": [
+            "lemon",
+            "lemon juice"
+        ]
+    },
+    {
+        "id": "140",
+        "name": "Lime Juice",
+        "category": "Recommended",
+        "explanation": "Safe and refreshing source of vitamin C.",
+        "trimester_advice": "Use in water or meals.",
+        "keywords": [
+            "lime",
+            "lime juice"
+        ]
+    },
+    {
+        "id": "141",
+        "name": "Grapefruit",
+        "category": "Recommended",
+        "explanation": "Rich in vitamin C.",
+        "trimester_advice": "May interact with some medications.",
+        "keywords": [
+            "grapefruit",
+            "citrus"
+        ]
+    },
+    {
+        "id": "142",
+        "name": "Grapefruit Juice",
+        "category": "Not Recommended",
+        "explanation": "Can interact with certain medications.",
+        "trimester_advice": "Consult doctor before drinking often.",
+        "keywords": [
+            "grapefruit juice",
+            "juice"
+        ]
+    },
+    {
+        "id": "143",
+        "name": "Tomatoes",
+        "category": "Recommended",
+        "explanation": "High in vitamin C and lycopene.",
+        "trimester_advice": "Safe raw or cooked.",
+        "keywords": [
+            "tomatoes",
+            "vegetables"
+        ]
+    },
+    {
+        "id": "144",
+        "name": "Tomato Juice",
+        "category": "Recommended",
+        "explanation": "Nutrient dense.",
+        "trimester_advice": "Choose low sodium options.",
+        "keywords": [
+            "tomato juice",
+            "juice"
+        ]
+    },
+    {
+        "id": "145",
+        "name": "Tomato Sauce",
+        "category": "Recommended",
+        "explanation": "Cooked tomatoes increase lycopene absorption.",
+        "trimester_advice": "Watch for heartburn.",
+        "keywords": [
+            "tomato sauce",
+            "pasta sauce"
+        ]
+    },
+    {
+        "id": "146",
+        "name": "Ketchup",
+        "category": "Not Recommended",
+        "explanation": "High sugar and sodium.",
+        "trimester_advice": "Use sparingly.",
+        "keywords": [
+            "ketchup",
+            "condiment"
+        ]
+    },
+    {
+        "id": "147",
+        "name": "Mustard",
+        "category": "Recommended",
+        "explanation": "Safe condiment.",
+        "trimester_advice": "Use freely.",
+        "keywords": [
+            "mustard",
+            "condiment"
+        ]
+    },
+    {
+        "id": "148",
+        "name": "BBQ Sauce",
+        "category": "Not Recommended",
+        "explanation": "Loaded with sugar and sodium.",
+        "trimester_advice": "Use lightly.",
+        "keywords": [
+            "bbq sauce",
+            "condiment"
+        ]
+    },
+    {
+        "id": "149",
+        "name": "Soy Milk",
+        "category": "Recommended",
+        "explanation": "High calcium when fortified.",
+        "trimester_advice": "Choose pasteurized.",
+        "keywords": [
+            "soy milk",
+            "milk alternative"
+        ]
+    },
+    {
+        "id": "150",
+        "name": "Almond Milk",
+        "category": "Recommended",
+        "explanation": "Low calorie and fortified.",
+        "trimester_advice": "Choose pasteurized and unsweetened.",
+        "keywords": [
+            "almond milk",
+            "milk alternative"
+        ]
+    },
+    {
+        "id": "151",
+        "name": "Oat Milk",
+        "category": "Recommended",
+        "explanation": "High in fiber and often fortified.",
+        "trimester_advice": "Choose pasteurized.",
+        "keywords": [
+            "oat milk",
+            "milk alternative"
+        ]
+    },
+    {
+        "id": "152",
+        "name": "Coconut Milk",
+        "category": "Recommended",
+        "explanation": "Safe but high in fat.",
+        "trimester_advice": "Use in cooking or small servings.",
+        "keywords": [
+            "coconut milk",
+            "milk alternative"
+        ]
+    },
+    {
+        "id": "153",
+        "name": "Rice Milk",
+        "category": "Not Recommended",
+        "explanation": "Low protein and may contain arsenic traces.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "rice milk",
+            "milk alternative"
+        ]
+    },
+    {
+        "id": "154",
+        "name": "Goat Cheese (Pasteurized)",
+        "category": "Recommended",
+        "explanation": "High calcium when pasteurized.",
+        "trimester_advice": "Avoid soft unpasteurized types.",
+        "keywords": [
+            "goat cheese",
+            "cheese"
+        ]
+    },
+    {
+        "id": "155",
+        "name": "Ricotta",
+        "category": "Recommended",
+        "explanation": "Safe when pasteurized.",
+        "trimester_advice": "Use in sweet or savory dishes.",
+        "keywords": [
+            "ricotta",
+            "cheese"
+        ]
+    },
+    {
+        "id": "156",
+        "name": "Mozzarella (Fresh Pasteurized)",
+        "category": "Recommended",
+        "explanation": "Safe and mild cheese.",
+        "trimester_advice": "Ensure it is pasteurized.",
+        "keywords": [
+            "mozzarella",
+            "cheese"
+        ]
+    },
+    {
+        "id": "157",
+        "name": "Parmesan",
+        "category": "Recommended",
+        "explanation": "Hard cheeses are low risk.",
+        "trimester_advice": "Safe in all trimesters.",
+        "keywords": [
+            "parmesan",
+            "cheese"
+        ]
+    },
+    {
+        "id": "158",
+        "name": "Cheddar Cheese",
+        "category": "Recommended",
+        "explanation": "Hard pasteurized cheese is safe.",
+        "trimester_advice": "Safe anytime.",
+        "keywords": [
+            "cheddar",
+            "cheese"
+        ]
+    },
+    {
+        "id": "159",
+        "name": "Cream Cheese",
+        "category": "Recommended",
+        "explanation": "Pasteurized and safe.",
+        "trimester_advice": "Use in moderation due to fat.",
+        "keywords": [
+            "cream cheese",
+            "spread"
+        ]
+    },
+    {
+        "id": "160",
+        "name": "Blue Cheese (Pasteurized)",
+        "category": "Not Recommended",
+        "explanation": "Even pasteurized versions may contain moisture that supports bacteria.",
+        "trimester_advice": "Use sparingly and ensure pasteurized.",
+        "keywords": [
+            "blue cheese",
+            "cheese"
+        ]
+    },
+    {
+        "id": "161",
+        "name": "Gorgonzola",
+        "category": "Not Recommended",
+        "explanation": "Soft cheese with higher bacterial risk.",
+        "trimester_advice": "Avoid unless cooked.",
+        "keywords": [
+            "gorgonzola",
+            "cheese"
+        ]
+    },
+    {
+        "id": "162",
+        "name": "Velveeta",
+        "category": "Recommended",
+        "explanation": "Processed and pasteurized.",
+        "trimester_advice": "High sodium so limit portions.",
+        "keywords": [
+            "velveeta",
+            "cheese"
+        ]
+    },
+    {
+        "id": "163",
+        "name": "String Cheese",
+        "category": "Recommended",
+        "explanation": "Safe pasteurized snack.",
+        "trimester_advice": "Eat anytime.",
+        "keywords": [
+            "string cheese",
+            "snack"
+        ]
+    },
+    {
+        "id": "164",
+        "name": "Yogurt Covered Raisins",
+        "category": "Not Recommended",
+        "explanation": "High sugar and often contains additives.",
+        "trimester_advice": "Eat sparingly.",
+        "keywords": [
+            "yogurt raisins",
+            "snack"
+        ]
+    },
+    {
+        "id": "165",
+        "name": "Raisins",
+        "category": "Recommended",
+        "explanation": "Good source of iron.",
+        "trimester_advice": "Eat in moderation due to sugar.",
+        "keywords": [
+            "raisins",
+            "dried fruit"
+        ]
+    },
+    {
+        "id": "166",
+        "name": "Dried Apricots",
+        "category": "Recommended",
+        "explanation": "High in iron and fiber.",
+        "trimester_advice": "Good for constipation.",
+        "keywords": [
+            "dried apricots",
+            "dried fruit"
+        ]
+    },
+    {
+        "id": "167",
+        "name": "Dried Mango",
+        "category": "Not Recommended",
+        "explanation": "Very high in sugar.",
+        "trimester_advice": "Eat sparingly.",
+        "keywords": [
+            "dried mango",
+            "snack"
+        ]
+    },
+    {
+        "id": "168",
+        "name": "Beef Jerky",
+        "category": "Bad",
+        "explanation": "Not fully cooked and may contain pathogens.",
+        "trimester_advice": "Avoid throughout pregnancy.",
+        "keywords": [
+            "beef jerky",
+            "jerky"
+        ]
+    },
+    {
+        "id": "169",
+        "name": "Turkey Jerky",
+        "category": "Bad",
+        "explanation": "Drying is not the same as cooking.",
+        "trimester_advice": "Avoid.",
+        "keywords": [
+            "turkey jerky",
+            "jerky"
+        ]
+    },
+    {
+        "id": "170",
+        "name": "Seaweed Snacks",
+        "category": "Not Recommended",
+        "explanation": "May contain very high iodine.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "seaweed",
+            "nori"
+        ]
+    },
+    {
+        "id": "171",
+        "name": "Nori Sheets",
+        "category": "Recommended",
+        "explanation": "Safe if iodine intake is monitored.",
+        "trimester_advice": "Use moderately.",
+        "keywords": [
+            "nori",
+            "seaweed"
+        ]
+    },
+    {
+        "id": "172",
+        "name": "Miso Soup",
+        "category": "Recommended",
+        "explanation": "Fermented and generally pasteurized.",
+        "trimester_advice": "Watch sodium levels.",
+        "keywords": [
+            "miso soup",
+            "fermented"
+        ]
+    },
+    {
+        "id": "173",
+        "name": "Pho",
+        "category": "Recommended",
+        "explanation": "Nutritious broth with protein.",
+        "trimester_advice": "Ensure meat is fully cooked.",
+        "keywords": [
+            "pho",
+            "soup"
+        ]
+    },
+    {
+        "id": "174",
+        "name": "Ramen (Restaurant)",
+        "category": "Not Recommended",
+        "explanation": "Often extremely salty.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "ramen",
+            "noodles"
+        ]
+    },
+    {
+        "id": "175",
+        "name": "Soba Noodles",
+        "category": "Recommended",
+        "explanation": "Buckwheat noodles high in fiber.",
+        "trimester_advice": "Check for sodium in broths.",
+        "keywords": [
+            "soba",
+            "noodles"
+        ]
+    },
+    {
+        "id": "176",
+        "name": "Udon",
+        "category": "Recommended",
+        "explanation": "Safe noodle option.",
+        "trimester_advice": "Choose low sodium broth.",
+        "keywords": [
+            "udon",
+            "noodles"
+        ]
+    },
+    {
+        "id": "177",
+        "name": "Tempura",
+        "category": "Not Recommended",
+        "explanation": "Fried foods can cause heartburn.",
+        "trimester_advice": "Eat small portions.",
+        "keywords": [
+            "tempura",
+            "fried food"
+        ]
+    },
+    {
+        "id": "178",
+        "name": "Edamame",
+        "category": "Recommended",
+        "explanation": "Nutritious soybean snack.",
+        "trimester_advice": "Eat cooked.",
+        "keywords": [
+            "edamame",
+            "soybeans"
+        ]
+    },
+    {
+        "id": "179",
+        "name": "Teriyaki Chicken",
+        "category": "Recommended",
+        "explanation": "Safe when chicken is cooked fully.",
+        "trimester_advice": "Be mindful of sugars in sauce.",
+        "keywords": [
+            "teriyaki",
+            "chicken"
+        ]
+    },
+    {
+        "id": "180",
+        "name": "Orange Chicken",
+        "category": "Not Recommended",
+        "explanation": "Often deep fried and sugary.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "orange chicken",
+            "fried"
+        ]
+    },
+    {
+        "id": "181",
+        "name": "Pad Thai",
+        "category": "Recommended",
+        "explanation": "Safe if proteins are cooked.",
+        "trimester_advice": "Avoid bean sprouts unless cooked.",
+        "keywords": [
+            "pad thai",
+            "thai food"
+        ]
+    },
+    {
+        "id": "182",
+        "name": "Curry",
+        "category": "Recommended",
+        "explanation": "Rich in herbs and spices.",
+        "trimester_advice": "Choose mild if sensitive to heartburn.",
+        "keywords": [
+            "curry",
+            "indian food"
+        ]
+    },
+    {
+        "id": "183",
+        "name": "Tikka Masala",
+        "category": "Recommended",
+        "explanation": "Safe if chicken is fully cooked.",
+        "trimester_advice": "Watch cream content if lactose sensitive.",
+        "keywords": [
+            "tikka masala",
+            "indian cuisine"
+        ]
+    },
+    {
+        "id": "184",
+        "name": "Naan",
+        "category": "Recommended",
+        "explanation": "Safe bread option.",
+        "trimester_advice": "Enjoy in moderation.",
+        "keywords": [
+            "naan",
+            "bread"
+        ]
+    },
+    {
+        "id": "185",
+        "name": "Falafel",
+        "category": "Recommended",
+        "explanation": "High in plant protein.",
+        "trimester_advice": "Ensure cooked through.",
+        "keywords": [
+            "falafel",
+            "legumes"
+        ]
+    },
+    {
+        "id": "186",
+        "name": "Shawarma",
+        "category": "Not Recommended",
+        "explanation": "Rotisserie meats can harbor bacteria if not heated properly.",
+        "trimester_advice": "Choose freshly cooked servings only.",
+        "keywords": [
+            "shawarma",
+            "meat"
+        ]
+    },
+    {
+        "id": "187",
+        "name": "Gyro Meat",
+        "category": "Not Recommended",
+        "explanation": "Rotating meat cones may be unevenly cooked.",
+        "trimester_advice": "Eat only if freshly shaved and steaming.",
+        "keywords": [
+            "gyro",
+            "lamb"
+        ]
+    },
+    {
+        "id": "188",
+        "name": "Hollandaise Sauce",
+        "category": "Bad",
+        "explanation": "Often made with raw eggs.",
+        "trimester_advice": "Avoid unless pasteurized.",
+        "keywords": [
+            "hollandaise",
+            "sauce"
+        ]
+    },
+    {
+        "id": "189",
+        "name": "Caesar Dressing",
+        "category": "Not Recommended",
+        "explanation": "Classic versions contain raw eggs.",
+        "trimester_advice": "Choose bottled pasteurized versions.",
+        "keywords": [
+            "caesar dressing",
+            "dressing"
+        ]
+    },
+    {
+        "id": "190",
+        "name": "Ranch Dressing",
+        "category": "Recommended",
+        "explanation": "Safe when pasteurized.",
+        "trimester_advice": "Watch sodium content.",
+        "keywords": [
+            "ranch",
+            "dressing"
+        ]
+    },
+    {
+        "id": "191",
+        "name": "Vinaigrette",
+        "category": "Recommended",
+        "explanation": "Simple and safe dressing.",
+        "trimester_advice": "Choose low sugar options.",
+        "keywords": [
+            "vinaigrette",
+            "dressing"
+        ]
+    },
+    {
+        "id": "192",
+        "name": "Butter",
+        "category": "Recommended",
+        "explanation": "Safe in moderation.",
+        "trimester_advice": "Choose pasteurized butter.",
+        "keywords": [
+            "butter",
+            "dairy"
+        ]
+    },
+    {
+        "id": "193",
+        "name": "Ghee",
+        "category": "Recommended",
+        "explanation": "Clarified butter with rich nutrients.",
+        "trimester_advice": "Use moderately.",
+        "keywords": [
+            "ghee",
+            "butter"
+        ]
+    },
+    {
+        "id": "194",
+        "name": "Cream",
+        "category": "Recommended",
+        "explanation": "Safe if pasteurized.",
+        "trimester_advice": "Limit heavy cream.",
+        "keywords": [
+            "cream",
+            "dairy"
+        ]
+    },
+    {
+        "id": "195",
+        "name": "Whipped Cream",
+        "category": "Recommended",
+        "explanation": "Safe when pasteurized.",
+        "trimester_advice": "Limit sugary varieties.",
+        "keywords": [
+            "whipped cream",
+            "dessert"
+        ]
+    },
+    {
+        "id": "196",
+        "name": "Sour Cream",
+        "category": "Recommended",
+        "explanation": "Safe when pasteurized.",
+        "trimester_advice": "Use in moderation.",
+        "keywords": [
+            "sour cream",
+            "dairy"
+        ]
+    },
+    {
+        "id": "197",
+        "name": "Buttermilk",
+        "category": "Recommended",
+        "explanation": "Pasteurized and safe.",
+        "trimester_advice": "Helpful for digestion.",
+        "keywords": [
+            "buttermilk",
+            "dairy"
+        ]
+    },
+    {
+        "id": "198",
+        "name": "Cold Brew Coffee",
+        "category": "Not Recommended",
+        "explanation": "High caffeine concentration.",
+        "trimester_advice": "Limit significantly.",
+        "keywords": [
+            "cold brew",
+            "coffee"
+        ]
+    },
+    {
+        "id": "199",
+        "name": "Decaf Coffee",
+        "category": "Recommended",
+        "explanation": "Very low caffeine.",
+        "trimester_advice": "Safe alternative to regular coffee.",
+        "keywords": [
+            "decaf",
+            "coffee"
+        ]
+    },
+    {
+        "id": "200",
+        "name": "Yerba Mate",
+        "category": "Bad",
+        "explanation": "Contains high caffeine and compounds not recommended.",
+        "trimester_advice": "Avoid entirely.",
+        "keywords": [
+            "yerba mate",
+            "tea"
+        ]
+    },
+    {
+        "id": "201",
+        "name": "Matcha",
+        "category": "Not Recommended",
+        "explanation": "High in caffeine.",
+        "trimester_advice": "Limit to small servings occasionally.",
+        "keywords": [
+            "matcha",
+            "green tea"
+        ]
+    },
+    {
+        "id": "202",
+        "name": "Black Tea",
+        "category": "Not Recommended",
+        "explanation": "Moderate caffeine content.",
+        "trimester_advice": "Limit to 1 cup per day.",
+        "keywords": [
+            "black tea",
+            "tea"
+        ]
+    },
+    {
+        "id": "203",
+        "name": "Earl Grey Tea",
+        "category": "Not Recommended",
+        "explanation": "Contains caffeine and bergamot oil.",
+        "trimester_advice": "Limit consumption.",
+        "keywords": [
+            "earl grey",
+            "tea"
+        ]
+    },
+    {
+        "id": "204",
+        "name": "Thai Iced Tea",
+        "category": "Not Recommended",
+        "explanation": "High sugar and caffeine.",
+        "trimester_advice": "Enjoy rarely.",
+        "keywords": [
+            "thai tea",
+            "iced tea"
+        ]
+    },
+    {
+        "id": "205",
+        "name": "Chai Tea",
+        "category": "Not Recommended",
+        "explanation": "Contains caffeine.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "chai tea",
+            "tea"
+        ]
+    },
+    {
+        "id": "206",
+        "name": "Chai Latte",
+        "category": "Not Recommended",
+        "explanation": "High sugar and caffeine.",
+        "trimester_advice": "Choose small sizes.",
+        "keywords": [
+            "chai latte",
+            "latte"
+        ]
+    },
+    {
+        "id": "207",
+        "name": "Latte",
+        "category": "Not Recommended",
+        "explanation": "Contains caffeine.",
+        "trimester_advice": "Limit to one small cup.",
+        "keywords": [
+            "latte",
+            "coffee"
+        ]
+    },
+    {
+        "id": "208",
+        "name": "Cappuccino",
+        "category": "Not Recommended",
+        "explanation": "Contains caffeine.",
+        "trimester_advice": "Limit portions.",
+        "keywords": [
+            "cappuccino",
+            "coffee"
+        ]
+    },
+    {
+        "id": "209",
+        "name": "Mocha",
+        "category": "Not Recommended",
+        "explanation": "High sugar and caffeine.",
+        "trimester_advice": "Choose rarely.",
+        "keywords": [
+            "mocha",
+            "coffee"
+        ]
+    },
+    {
+        "id": "210",
+        "name": "Americano",
+        "category": "Not Recommended",
+        "explanation": "Coffee based beverage with caffeine.",
+        "trimester_advice": "Limit to daily caffeine allowance.",
+        "keywords": [
+            "americano",
+            "coffee"
+        ]
+    },
+    {
+        "id": "211",
+        "name": "Hot Chocolate",
+        "category": "Not Recommended",
+        "explanation": "Contains sugar and small amounts of caffeine.",
+        "trimester_advice": "Enjoy sparingly.",
+        "keywords": [
+            "hot chocolate",
+            "cocoa"
+        ]
+    },
+    {
+        "id": "212",
+        "name": "Cocoa Powder",
+        "category": "Recommended",
+        "explanation": "Safe in low caffeine quantities.",
+        "trimester_advice": "Use moderately in baking.",
+        "keywords": [
+            "cocoa",
+            "cocoa powder"
+        ]
+    },
+    {
+        "id": "213",
+        "name": "Maple Syrup",
+        "category": "Recommended",
+        "explanation": "Natural sweetener.",
+        "trimester_advice": "Use sparingly.",
+        "keywords": [
+            "maple syrup",
+            "sweetener"
+        ]
+    },
+    {
+        "id": "214",
+        "name": "Agave Syrup",
+        "category": "Not Recommended",
+        "explanation": "Very high fructose levels.",
+        "trimester_advice": "Limit usage.",
+        "keywords": [
+            "agave",
+            "sweetener"
+        ]
+    },
+    {
+        "id": "215",
+        "name": "Stevia",
+        "category": "Recommended",
+        "explanation": "Non calorie sweetener considered safe.",
+        "trimester_advice": "Use moderately.",
+        "keywords": [
+            "stevia",
+            "sweetener"
+        ]
+    },
+    {
+        "id": "216",
+        "name": "Aspartame",
+        "category": "Not Recommended",
+        "explanation": "Artificial sweetener with mixed evidence.",
+        "trimester_advice": "Limit if possible.",
+        "keywords": [
+            "aspartame",
+            "sweetener"
+        ]
+    },
+    {
+        "id": "217",
+        "name": "Honeydew Melon",
+        "category": "Recommended",
+        "explanation": "Hydrating fruit.",
+        "trimester_advice": "Wash rind before slicing.",
+        "keywords": [
+            "honeydew",
+            "melon"
+        ]
+    },
+    {
+        "id": "218",
+        "name": "Mango",
+        "category": "Recommended",
+        "explanation": "High in vitamins A and C.",
+        "trimester_advice": "Eat ripe mango only.",
+        "keywords": [
+            "mango",
+            "fruit"
+        ]
+    },
+    {
+        "id": "219",
+        "name": "Kiwi",
+        "category": "Recommended",
+        "explanation": "Rich in vitamin C and fiber.",
+        "trimester_advice": "Eat peeled or washed skin.",
+        "keywords": [
+            "kiwi",
+            "fruit"
+        ]
+    },
+    {
+        "id": "220",
+        "name": "Pomegranate",
+        "category": "Recommended",
+        "explanation": "High in antioxidants.",
+        "trimester_advice": "Safe to eat seeds or juice.",
+        "keywords": [
+            "pomegranate",
+            "fruit"
+        ]
+    },
+    {
+        "id": "221",
+        "name": "Figs",
+        "category": "Recommended",
+        "explanation": "Promotes digestion.",
+        "trimester_advice": "Eat fresh or dried.",
+        "keywords": [
+            "figs",
+            "fruit"
+        ]
+    },
+    {
+        "id": "222",
+        "name": "Dates",
+        "category": "Recommended",
+        "explanation": "May support labor preparation late in pregnancy.",
+        "trimester_advice": "Beneficial in third trimester.",
+        "keywords": [
+            "dates",
+            "fruit"
+        ]
+    },
+    {
+        "id": "223",
+        "name": "Prunes",
+        "category": "Recommended",
+        "explanation": "Helps with constipation.",
+        "trimester_advice": "Eat daily if needed.",
+        "keywords": [
+            "prunes",
+            "digestive health"
+        ]
+    },
+    {
+        "id": "224",
+        "name": "Apricots",
+        "category": "Recommended",
+        "explanation": "Rich in vitamins A and C.",
+        "trimester_advice": "Eat fresh or dried.",
+        "keywords": [
+            "apricots",
+            "fruit"
+        ]
+    },
+    {
+        "id": "225",
+        "name": "Peaches",
+        "category": "Recommended",
+        "explanation": "High in vitamins and hydration.",
+        "trimester_advice": "Wash thoroughly.",
+        "keywords": [
+            "peaches",
+            "fruit"
+        ]
+    },
+    {
+        "id": "226",
+        "name": "Plums",
+        "category": "Recommended",
+        "explanation": "Support digestion.",
+        "trimester_advice": "Wash before eating.",
+        "keywords": [
+            "plums",
+            "fruit"
+        ]
+    },
+    {
+        "id": "227",
+        "name": "Nectarines",
+        "category": "Recommended",
+        "explanation": "Rich in fiber and vitamins.",
+        "trimester_advice": "Wash thoroughly.",
+        "keywords": [
+            "nectarines",
+            "fruit"
+        ]
+    },
+    {
+        "id": "228",
+        "name": "Cherries",
+        "category": "Recommended",
+        "explanation": "Contain melatonin and antioxidants.",
+        "trimester_advice": "Wash to remove pesticides.",
+        "keywords": [
+            "cherries",
+            "fruit"
+        ]
+    },
+    {
+        "id": "229",
+        "name": "Blackberries",
+        "category": "Recommended",
+        "explanation": "High in vitamins and fiber.",
+        "trimester_advice": "Wash thoroughly.",
+        "keywords": [
+            "blackberries",
+            "berries"
+        ]
+    },
+    {
+        "id": "230",
+        "name": "Goji Berries",
+        "category": "Not Recommended",
+        "explanation": "May interact with medications.",
+        "trimester_advice": "Consult doctor before consuming.",
+        "keywords": [
+            "goji berries",
+            "berries"
+        ]
+    },
+    {
+        "id": "231",
+        "name": "Starfruit",
+        "category": "Not Recommended",
+        "explanation": "May affect kidney function in sensitive individuals.",
+        "trimester_advice": "Avoid if you have kidney issues.",
+        "keywords": [
+            "starfruit",
+            "fruit"
+        ]
+    },
+    {
+        "id": "232",
+        "name": "Dragon Fruit",
+        "category": "Recommended",
+        "explanation": "Hydrating and nutritious.",
+        "trimester_advice": "Wash before slicing.",
+        "keywords": [
+            "dragon fruit",
+            "fruit"
+        ]
+    },
+    {
+        "id": "233",
+        "name": "Lychee",
+        "category": "Not Recommended",
+        "explanation": "Very high in sugar.",
+        "trimester_advice": "Limit servings.",
+        "keywords": [
+            "lychee",
+            "fruit"
+        ]
+    },
+    {
+        "id": "234",
+        "name": "Guava",
+        "category": "Recommended",
+        "explanation": "Great source of vitamin C.",
+        "trimester_advice": "Eat ripe and washed.",
+        "keywords": [
+            "guava",
+            "fruit"
+        ]
+    },
+    {
+        "id": "235",
+        "name": "Pear",
+        "category": "Recommended",
+        "explanation": "High fiber fruit.",
+        "trimester_advice": "Wash thoroughly.",
+        "keywords": [
+            "pear",
+            "fruit"
+        ]
+    },
+    {
+        "id": "236",
+        "name": "Persimmon",
+        "category": "Recommended",
+        "explanation": "Rich in vitamins.",
+        "trimester_advice": "Eat ripe only.",
+        "keywords": [
+            "persimmon",
+            "fruit"
+        ]
+    },
+    {
+        "id": "237",
+        "name": "Coconut Water",
+        "category": "Recommended",
+        "explanation": "Great natural electrolyte drink.",
+        "trimester_advice": "Choose pasteurized brands.",
+        "keywords": [
+            "coconut water",
+            "hydration"
+        ]
+    },
+    {
+        "id": "238",
+        "name": "Sports Drinks",
+        "category": "Not Recommended",
+        "explanation": "High in sugar and dyes.",
+        "trimester_advice": "Use only for dehydration episodes.",
+        "keywords": [
+            "sports drinks",
+            "hydration"
+        ]
+    },
+    {
+        "id": "239",
+        "name": "Electrolyte Powder",
+        "category": "Not Recommended",
+        "explanation": "Formulas vary and may contain additives.",
+        "trimester_advice": "Choose pregnancy safe brands only.",
+        "keywords": [
+            "electrolyte powder",
+            "hydration"
+        ]
+    },
+    {
+        "id": "240",
+        "name": "Sparkling Water",
+        "category": "Recommended",
+        "explanation": "Safe and hydrating.",
+        "trimester_advice": "Avoid varieties with caffeine.",
+        "keywords": [
+            "sparkling water",
+            "seltzer"
+        ]
+    },
+    {
+        "id": "241",
+        "name": "Mineral Water",
+        "category": "Recommended",
+        "explanation": "Safe source of minerals.",
+        "trimester_advice": "Check sodium levels.",
+        "keywords": [
+            "mineral water",
+            "water"
+        ]
+    },
+    {
+        "id": "242",
+        "name": "Flavored Water",
+        "category": "Not Recommended",
+        "explanation": "Often contains artificial sweeteners.",
+        "trimester_advice": "Choose natural flavored versions.",
+        "keywords": [
+            "flavored water",
+            "drinks"
+        ]
+    },
+    {
+        "id": "243",
+        "name": "Milk",
+        "category": "Recommended",
+        "explanation": "High in calcium and protein.",
+        "trimester_advice": "Choose pasteurized milk only.",
+        "keywords": [
+            "milk",
+            "dairy"
+        ]
+    },
+    {
+        "id": "244",
+        "name": "Chocolate Milk",
+        "category": "Not Recommended",
+        "explanation": "High sugar.",
+        "trimester_advice": "Use as occasional treat.",
+        "keywords": [
+            "chocolate milk",
+            "dairy"
+        ]
+    },
+    {
+        "id": "245",
+        "name": "Eggnog",
+        "category": "Bad",
+        "explanation": "Often contains raw eggs and alcohol.",
+        "trimester_advice": "Avoid unless pasteurized and alcohol free.",
+        "keywords": [
+            "eggnog",
+            "holiday drink"
+        ]
+    },
+    {
+        "id": "246",
+        "name": "Protein Bars",
+        "category": "Not Recommended",
+        "explanation": "Many contain additives and sugar alcohols.",
+        "trimester_advice": "Choose pregnancy approved bars only.",
+        "keywords": [
+            "protein bar",
+            "snack"
+        ]
+    },
+    {
+        "id": "247",
+        "name": "Granola Bars",
+        "category": "Not Recommended",
+        "explanation": "Often high in sugar.",
+        "trimester_advice": "Choose low sugar brands.",
+        "keywords": [
+            "granola bar",
+            "snack"
+        ]
+    },
+    {
+        "id": "248",
+        "name": "Fruit Snacks",
+        "category": "Not Recommended",
+        "explanation": "High sugar and low nutrition.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "fruit snacks",
+            "snack"
+        ]
+    },
+    {
+        "id": "249",
+        "name": "Gummy Vitamins",
+        "category": "Not Recommended",
+        "explanation": "May lack full prenatal nutrient profile.",
+        "trimester_advice": "Use only doctor approved prenatals.",
+        "keywords": [
+            "gummy vitamins",
+            "vitamins"
+        ]
+    },
+    {
+        "id": "250",
+        "name": "Prenatal Gummies",
+        "category": "Recommended",
+        "explanation": "Safe when taken as directed.",
+        "trimester_advice": "Choose ones containing folic acid.",
+        "keywords": [
+            "prenatal gummies",
+            "prenatal vitamins"
+        ]
+    },
+    {
+        "id": "251",
+        "name": "Bone Broth",
+        "category": "Recommended",
+        "explanation": "Rich in minerals and collagen.",
+        "trimester_advice": "Safe when well cooked.",
+        "keywords": [
+            "bone broth",
+            "broth"
+        ]
+    },
+    {
+        "id": "252",
+        "name": "Chicken Broth",
+        "category": "Recommended",
+        "explanation": "Hydrating and soothing.",
+        "trimester_advice": "Low sodium versions preferred.",
+        "keywords": [
+            "chicken broth",
+            "broth"
+        ]
+    },
+    {
+        "id": "253",
+        "name": "Beef Broth",
+        "category": "Recommended",
+        "explanation": "Iron rich broth.",
+        "trimester_advice": "Choose low sodium.",
+        "keywords": [
+            "beef broth",
+            "broth"
+        ]
+    },
+    {
+        "id": "254",
+        "name": "Vegetable Broth",
+        "category": "Recommended",
+        "explanation": "Hydrating and gentle on stomach.",
+        "trimester_advice": "Use in soups or sipping.",
+        "keywords": [
+            "vegetable broth",
+            "broth"
+        ]
+    },
+    {
+        "id": "255",
+        "name": "Canned Soup",
+        "category": "Not Recommended",
+        "explanation": "Very high sodium.",
+        "trimester_advice": "Use occasionally.",
+        "keywords": [
+            "canned soup",
+            "soup"
+        ]
+    },
+    {
+        "id": "256",
+        "name": "Instant Soup Cups",
+        "category": "Bad",
+        "explanation": "Excessive sodium and additives.",
+        "trimester_advice": "Avoid if possible.",
+        "keywords": [
+            "instant soup",
+            "cup noodle"
+        ]
+    },
+    {
+        "id": "257",
+        "name": "Frozen Meals",
+        "category": "Not Recommended",
+        "explanation": "Often high in sodium and preservatives.",
+        "trimester_advice": "Choose minimally processed options.",
+        "keywords": [
+            "frozen meals",
+            "microwave dinner"
+        ]
+    },
+    {
+        "id": "258",
+        "name": "Chicken Nuggets",
+        "category": "Not Recommended",
+        "explanation": "Processed and fried.",
+        "trimester_advice": "Eat in moderation.",
+        "keywords": [
+            "chicken nuggets",
+            "fast food"
+        ]
+    },
+    {
+        "id": "259",
+        "name": "Fish Sticks",
+        "category": "Not Recommended",
+        "explanation": "Often made with low quality fish and fried.",
+        "trimester_advice": "Eat sparingly.",
+        "keywords": [
+            "fish sticks",
+            "frozen fish"
+        ]
+    },
+    {
+        "id": "260",
+        "name": "Mac and Cheese",
+        "category": "Recommended",
+        "explanation": "Safe comfort food.",
+        "trimester_advice": "Watch sodium content.",
+        "keywords": [
+            "mac and cheese",
+            "pasta"
+        ]
+    },
+    {
+        "id": "261",
+        "name": "Lasagna",
+        "category": "Recommended",
+        "explanation": "Nutritious layered meal when cooked fully.",
+        "trimester_advice": "Ensure meat is thoroughly cooked.",
+        "keywords": [
+            "lasagna",
+            "pasta"
+        ]
+    },
+    {
+        "id": "262",
+        "name": "Spaghetti",
+        "category": "Recommended",
+        "explanation": "Safe cooked pasta option.",
+        "trimester_advice": "Top with cooked sauces only.",
+        "keywords": [
+            "spaghetti",
+            "pasta"
+        ]
+    },
+    {
+        "id": "263",
+        "name": "Fettuccine Alfredo",
+        "category": "Not Recommended",
+        "explanation": "High in saturated fat.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "alfredo",
+            "pasta"
+        ]
+    },
+    {
+        "id": "264",
+        "name": "Mashed Potatoes",
+        "category": "Recommended",
+        "explanation": "Comforting and nutritious.",
+        "trimester_advice": "Add milk or butter for calories if needed.",
+        "keywords": [
+            "mashed potatoes",
+            "potatoes"
+        ]
+    },
+    {
+        "id": "265",
+        "name": "Baked Potato",
+        "category": "Recommended",
+        "explanation": "High in potassium and fiber.",
+        "trimester_advice": "Choose healthy toppings.",
+        "keywords": [
+            "baked potato",
+            "potato"
+        ]
+    },
+    {
+        "id": "266",
+        "name": "Tater Tots",
+        "category": "Not Recommended",
+        "explanation": "Fried and processed.",
+        "trimester_advice": "Enjoy occasionally.",
+        "keywords": [
+            "tater tots",
+            "potatoes"
+        ]
+    },
+    {
+        "id": "267",
+        "name": "Corn",
+        "category": "Recommended",
+        "explanation": "Good fiber and vitamins.",
+        "trimester_advice": "Eat cooked or grilled.",
+        "keywords": [
+            "corn",
+            "vegetable"
+        ]
+    },
+    {
+        "id": "268",
+        "name": "Cornbread",
+        "category": "Recommended",
+        "explanation": "Safe baked food.",
+        "trimester_advice": "Great with soups.",
+        "keywords": [
+            "cornbread",
+            "bread"
+        ]
+    },
+    {
+        "id": "269",
+        "name": "Corn Chips",
+        "category": "Not Recommended",
+        "explanation": "High in sodium and fat.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "corn chips",
+            "chips"
+        ]
+    },
+    {
+        "id": "270",
+        "name": "Tortillas",
+        "category": "Recommended",
+        "explanation": "Safe bread alternative.",
+        "trimester_advice": "Choose whole grain versions.",
+        "keywords": [
+            "tortilla",
+            "wrap"
+        ]
+    },
+    {
+        "id": "271",
+        "name": "Flour Tortillas",
+        "category": "Recommended",
+        "explanation": "Safe carbohydrate source.",
+        "trimester_advice": "Choose whole wheat if possible.",
+        "keywords": [
+            "flour tortilla",
+            "wrap"
+        ]
+    },
+    {
+        "id": "272",
+        "name": "Corn Tortillas",
+        "category": "Recommended",
+        "explanation": "Gluten free option.",
+        "trimester_advice": "Warm before eating.",
+        "keywords": [
+            "corn tortilla",
+            "wrap"
+        ]
+    },
+    {
+        "id": "273",
+        "name": "Quesadillas",
+        "category": "Recommended",
+        "explanation": "Safe if cheese is pasteurized.",
+        "trimester_advice": "Add cooked proteins only.",
+        "keywords": [
+            "quesadilla",
+            "mexican food"
+        ]
+    },
+    {
+        "id": "274",
+        "name": "Tacos",
+        "category": "Recommended",
+        "explanation": "Safe with cooked fillings.",
+        "trimester_advice": "Avoid raw sprouts or unpasteurized toppings.",
+        "keywords": [
+            "tacos",
+            "mexican food"
+        ]
+    },
+    {
+        "id": "275",
+        "name": "Burritos",
+        "category": "Recommended",
+        "explanation": "Nutritious when filled with beans and cooked meats.",
+        "trimester_advice": "Avoid uncooked sauces.",
+        "keywords": [
+            "burrito",
+            "mexican food"
+        ]
+    },
+    {
+        "id": "276",
+        "name": "Burrito Bowls",
+        "category": "Recommended",
+        "explanation": "Balanced meal option.",
+        "trimester_advice": "Choose brown rice for extra fiber.",
+        "keywords": [
+            "burrito bowl",
+            "mexican food"
+        ]
+    },
+    {
+        "id": "277",
+        "name": "Enchiladas",
+        "category": "Recommended",
+        "explanation": "Safe baked dish.",
+        "trimester_advice": "Ensure meat is cooked fully.",
+        "keywords": [
+            "enchiladas",
+            "mexican food"
+        ]
+    },
+    {
+        "id": "278",
+        "name": "Chili",
+        "category": "Recommended",
+        "explanation": "Protein rich stew.",
+        "trimester_advice": "Check for spicy triggers.",
+        "keywords": [
+            "chili",
+            "stew"
+        ]
+    },
+    {
+        "id": "279",
+        "name": "Bean Soup",
+        "category": "Recommended",
+        "explanation": "High in fiber and protein.",
+        "trimester_advice": "Can help with anemia.",
+        "keywords": [
+            "bean soup",
+            "soup"
+        ]
+    },
+    {
+        "id": "280",
+        "name": "Black Beans",
+        "category": "Recommended",
+        "explanation": "Excellent plant protein.",
+        "trimester_advice": "Soak or cook well to reduce gas.",
+        "keywords": [
+            "black beans",
+            "beans"
+        ]
+    },
+    {
+        "id": "281",
+        "name": "Pinto Beans",
+        "category": "Recommended",
+        "explanation": "Good source of iron.",
+        "trimester_advice": "Cook thoroughly.",
+        "keywords": [
+            "pinto beans",
+            "beans"
+        ]
+    },
+    {
+        "id": "282",
+        "name": "Kidney Beans",
+        "category": "Not Recommended",
+        "explanation": "Raw kidney beans contain toxins.",
+        "trimester_advice": "Only eat fully cooked beans.",
+        "keywords": [
+            "kidney beans",
+            "beans"
+        ]
+    },
+    {
+        "id": "283",
+        "name": "Chickpeas",
+        "category": "Recommended",
+        "explanation": "High protein and fiber.",
+        "trimester_advice": "Cook soft for easier digestion.",
+        "keywords": [
+            "chickpeas",
+            "garbanzo"
+        ]
+    },
+    {
+        "id": "284",
+        "name": "Lentils",
+        "category": "Recommended",
+        "explanation": "High in folate and protein.",
+        "trimester_advice": "Cook thoroughly.",
+        "keywords": [
+            "lentils",
+            "legumes"
+        ]
+    },
+    {
+        "id": "285",
+        "name": "Split Peas",
+        "category": "Recommended",
+        "explanation": "Protein and fiber rich.",
+        "trimester_advice": "Great for soups.",
+        "keywords": [
+            "split peas",
+            "legumes"
+        ]
+    },
+    {
+        "id": "286",
+        "name": "Quinoa",
+        "category": "Recommended",
+        "explanation": "High in complete protein.",
+        "trimester_advice": "Rinse before cooking.",
+        "keywords": [
+            "quinoa",
+            "grain"
+        ]
+    },
+    {
+        "id": "287",
+        "name": "Couscous",
+        "category": "Recommended",
+        "explanation": "Easy to digest grain.",
+        "trimester_advice": "Pair with veggies.",
+        "keywords": [
+            "couscous",
+            "grain"
+        ]
+    },
+    {
+        "id": "288",
+        "name": "Barley",
+        "category": "Recommended",
+        "explanation": "Fiber rich grain.",
+        "trimester_advice": "Add to soups and stews.",
+        "keywords": [
+            "barley",
+            "grain"
+        ]
+    },
+    {
+        "id": "289",
+        "name": "Farro",
+        "category": "Recommended",
+        "explanation": "Nutrient dense ancient grain.",
+        "trimester_advice": "Great in salads or bowls.",
+        "keywords": [
+            "farro",
+            "grain"
+        ]
+    },
+    {
+        "id": "290",
+        "name": "Polenta",
+        "category": "Recommended",
+        "explanation": "Safe corn based dish.",
+        "trimester_advice": "Serve warm.",
+        "keywords": [
+            "polenta",
+            "cornmeal"
+        ]
+    },
+    {
+        "id": "291",
+        "name": "Grits",
+        "category": "Recommended",
+        "explanation": "Comforting carbohydrate source.",
+        "trimester_advice": "Add protein toppings.",
+        "keywords": [
+            "grits",
+            "cornmeal"
+        ]
+    },
+    {
+        "id": "292",
+        "name": "Risotto",
+        "category": "Recommended",
+        "explanation": "Hard rice grains are low risk.",
+        "trimester_advice": "Ensure seafood versions are cooked.",
+        "keywords": [
+            "risotto",
+            "rice"
+        ]
+    },
+    {
+        "id": "293",
+        "name": "Pickled Eggs",
+        "category": "Not Recommended",
+        "explanation": "May be stored improperly.",
+        "trimester_advice": "Avoid unless from safe sources.",
+        "keywords": [
+            "pickled eggs",
+            "eggs"
+        ]
+    },
+    {
+        "id": "294",
+        "name": "Deviled Eggs",
+        "category": "Recommended",
+        "explanation": "Safe if eggs are fully cooked.",
+        "trimester_advice": "Refrigerate promptly.",
+        "keywords": [
+            "deviled eggs",
+            "eggs"
+        ]
+    },
+    {
+        "id": "295",
+        "name": "Poached Eggs",
+        "category": "Bad",
+        "explanation": "Runny yolks may contain Salmonella.",
+        "trimester_advice": "Avoid during pregnancy.",
+        "keywords": [
+            "poached eggs",
+            "eggs"
+        ]
+    },
+    {
+        "id": "296",
+        "name": "Sunny Side Up Eggs",
+        "category": "Bad",
+        "explanation": "Undercooked yolks are unsafe.",
+        "trimester_advice": "Choose fully cooked eggs.",
+        "keywords": [
+            "sunny side up",
+            "eggs"
+        ]
+    },
+    {
+        "id": "297",
+        "name": "Over Easy Eggs",
+        "category": "Bad",
+        "explanation": "Partially cooked eggs carry risk.",
+        "trimester_advice": "Avoid.",
+        "keywords": [
+            "over easy eggs",
+            "eggs"
+        ]
+    },
+    {
+        "id": "298",
+        "name": "Scrambled Eggs (Soft)",
+        "category": "Bad",
+        "explanation": "Soft eggs may be undercooked.",
+        "trimester_advice": "Cook until firm.",
+        "keywords": [
+            "soft scrambled",
+            "eggs"
+        ]
+    },
+    {
+        "id": "299",
+        "name": "Egg Drop Soup",
+        "category": "Not Recommended",
+        "explanation": "Egg strands may not be fully cooked.",
+        "trimester_advice": "Choose thicker cooked versions.",
+        "keywords": [
+            "egg drop soup",
+            "soup"
+        ]
+    },
+    {
+        "id": "300",
+        "name": "Oatmeal Cookies",
+        "category": "Recommended",
+        "explanation": "Safe treat when baked fully.",
+        "trimester_advice": "Avoid raw dough.",
+        "keywords": [
+            "oatmeal cookies",
+            "cookies"
+        ]
+    },
+    {
+        "id": "301",
+        "name": "Prepackaged Caesar Salad",
+        "category": "Not Recommended",
+        "explanation": "Dressings may contain raw eggs and prewashed greens carry slight contamination risk.",
+        "trimester_advice": "Choose versions with pasteurized dressing and wash greens again if possible.",
+        "keywords": [
+            "prepackaged salad",
+            "caesar salad",
+            "bagged salad"
+        ]
+    },
+    {
+        "id": "302",
+        "name": "Prepackaged Garden Salad",
+        "category": "Not Recommended",
+        "explanation": "Bagged lettuce blends have been associated with recalls for bacteria.",
+        "trimester_advice": "Wash greens even if labeled triple washed.",
+        "keywords": [
+            "garden salad",
+            "bagged salad",
+            "salad kit"
+        ]
+    },
+    {
+        "id": "303",
+        "name": "Prepackaged Spinach Salad",
+        "category": "Not Recommended",
+        "explanation": "Prewashed spinach can still contain bacteria.",
+        "trimester_advice": "Rinse spinach before eating.",
+        "keywords": [
+            "spinach salad",
+            "bagged spinach",
+            "salad kit"
+        ]
+    },
+    {
+        "id": "304",
+        "name": "Prepackaged Coleslaw Mix",
+        "category": "Not Recommended",
+        "explanation": "Bagged shredded vegetables may carry bacteria if stored poorly.",
+        "trimester_advice": "Use quickly and refrigerate well.",
+        "keywords": [
+            "coleslaw",
+            "bagged slaw"
+        ]
+    },
+    {
+        "id": "305",
+        "name": "Chick fil A Nuggets",
+        "category": "Recommended",
+        "explanation": "Fully cooked chicken prepared at high temperature.",
+        "trimester_advice": "Eat fresh and hot.",
+        "keywords": [
+            "chick fil a",
+            "nuggets",
+            "fast food"
+        ]
+    },
+    {
+        "id": "306",
+        "name": "Chick fil A Grilled Nuggets",
+        "category": "Recommended",
+        "explanation": "Lean fully cooked protein option.",
+        "trimester_advice": "Safe when eaten hot.",
+        "keywords": [
+            "chick fil a",
+            "grilled nuggets"
+        ]
+    },
+    {
+        "id": "307",
+        "name": "Chick fil A Sandwich",
+        "category": "Recommended",
+        "explanation": "Chicken is cooked thoroughly.",
+        "trimester_advice": "Avoid if left sitting too long.",
+        "keywords": [
+            "chicken sandwich",
+            "fast food"
+        ]
+    },
+    {
+        "id": "308",
+        "name": "Chick fil A Spicy Sandwich",
+        "category": "Recommended",
+        "explanation": "Fully cooked but may trigger heartburn.",
+        "trimester_advice": "Skip if sensitive to spice.",
+        "keywords": [
+            "spicy chicken",
+            "fast food"
+        ]
+    },
+    {
+        "id": "309",
+        "name": "Panera Green Goddess Cobb Salad",
+        "category": "Not Recommended",
+        "explanation": "Contains deli style chicken and blue cheese.",
+        "trimester_advice": "Ask for pasteurized cheese only and confirm chicken is freshly cooked.",
+        "keywords": [
+            "panera",
+            "green goddess",
+            "salad"
+        ]
+    },
+    {
+        "id": "310",
+        "name": "Panera Caesar Salad",
+        "category": "Not Recommended",
+        "explanation": "Dressing may contain raw egg and romaine risk is present.",
+        "trimester_advice": "Request pasteurized dressing and ensure chicken is hot.",
+        "keywords": [
+            "panera",
+            "caesar salad"
+        ]
+    },
+    {
+        "id": "311",
+        "name": "Panera Autumn Squash Soup",
+        "category": "Recommended",
+        "explanation": "Fully cooked and smooth soup option.",
+        "trimester_advice": "Safe when served hot.",
+        "keywords": [
+            "panera",
+            "autumn squash soup",
+            "soup"
+        ]
+    },
+    {
+        "id": "312",
+        "name": "Panera Cinnamon Crunch Bagel",
+        "category": "Recommended",
+        "explanation": "Baked bread with no pregnancy risks.",
+        "trimester_advice": "Watch sugar content.",
+        "keywords": [
+            "panera",
+            "cinnamon crunch bagel",
+            "bagel"
+        ]
+    },
+    {
+        "id": "313",
+        "name": "McDonalds Big Mac",
+        "category": "Not Recommended",
+        "explanation": "High fat and sodium but meat is fully cooked.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "big mac",
+            "mcdonalds",
+            "burger"
+        ]
+    },
+    {
+        "id": "314",
+        "name": "McDonalds Quarter Pounder",
+        "category": "Not Recommended",
+        "explanation": "May be served medium cooked depending on store.",
+        "trimester_advice": "Request well done patties.",
+        "keywords": [
+            "quarter pounder",
+            "burger"
+        ]
+    },
+    {
+        "id": "315",
+        "name": "McDonalds Fries",
+        "category": "Not Recommended",
+        "explanation": "Fried food with high sodium.",
+        "trimester_advice": "Eat in moderation.",
+        "keywords": [
+            "fries",
+            "mcdonalds"
+        ]
+    },
+    {
+        "id": "316",
+        "name": "Chipotle Burrito Bowl",
+        "category": "Recommended",
+        "explanation": "Ingredients are cooked and generally safe.",
+        "trimester_advice": "Avoid queso and sofritas if sensitive to spice.",
+        "keywords": [
+            "chipotle",
+            "bowl",
+            "mexican"
+        ]
+    },
+    {
+        "id": "317",
+        "name": "Chipotle Burrito",
+        "category": "Recommended",
+        "explanation": "Warm tortillas with cooked fillings are safe.",
+        "trimester_advice": "Add lettuce only if washed thoroughly.",
+        "keywords": [
+            "chipotle",
+            "burrito"
+        ]
+    },
+    {
+        "id": "318",
+        "name": "Chipotle Queso",
+        "category": "Not Recommended",
+        "explanation": "High sodium and additives.",
+        "trimester_advice": "Use small portions.",
+        "keywords": [
+            "chipotle",
+            "queso"
+        ]
+    },
+    {
+        "id": "319",
+        "name": "Taco Bell Soft Taco",
+        "category": "Recommended",
+        "explanation": "Fully cooked seasoned meat.",
+        "trimester_advice": "Eat hot and fresh.",
+        "keywords": [
+            "taco bell",
+            "soft taco"
+        ]
+    },
+    {
+        "id": "320",
+        "name": "Taco Bell Crunchwrap Supreme",
+        "category": "Not Recommended",
+        "explanation": "High sodium and often greasy.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "taco bell",
+            "crunchwrap"
+        ]
+    },
+    {
+        "id": "321",
+        "name": "Olive Garden Salad",
+        "category": "Not Recommended",
+        "explanation": "Contains raw vegetables that may not be washed thoroughly.",
+        "trimester_advice": "Ask for fresh bowl and wash greens if possible.",
+        "keywords": [
+            "olive garden",
+            "salad"
+        ]
+    },
+    {
+        "id": "322",
+        "name": "Olive Garden Breadsticks",
+        "category": "Recommended",
+        "explanation": "Baked bread and safe.",
+        "trimester_advice": "Limit if sensitive to sodium.",
+        "keywords": [
+            "olive garden",
+            "breadsticks"
+        ]
+    },
+    {
+        "id": "323",
+        "name": "Olive Garden Chicken Alfredo",
+        "category": "Not Recommended",
+        "explanation": "Very high in saturated fat.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "olive garden",
+            "alfredo"
+        ]
+    },
+    {
+        "id": "324",
+        "name": "Olive Garden Minestrone Soup",
+        "category": "Recommended",
+        "explanation": "Vegetable soup cooked fully.",
+        "trimester_advice": "Safe when served hot.",
+        "keywords": [
+            "minestrone",
+            "olive garden",
+            "soup"
+        ]
+    },
+    {
+        "id": "325",
+        "name": "Chipotle Chicken",
+        "category": "Recommended",
+        "explanation": "Fully cooked protein option.",
+        "trimester_advice": "Choose mild toppings if heartburn is an issue.",
+        "keywords": [
+            "chipotle chicken",
+            "mexican"
+        ]
+    },
+    {
+        "id": "326",
+        "name": "Chinese Takeout Fried Rice",
+        "category": "Not Recommended",
+        "explanation": "Often includes leftover rice that may not be cooled properly.",
+        "trimester_advice": "Eat only if freshly prepared.",
+        "keywords": [
+            "fried rice",
+            "chinese food"
+        ]
+    },
+    {
+        "id": "327",
+        "name": "Chinese Takeout Sesame Chicken",
+        "category": "Not Recommended",
+        "explanation": "Typically deep fried and sugary.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "sesame chicken",
+            "chinese food"
+        ]
+    },
+    {
+        "id": "328",
+        "name": "Chinese Takeout Lo Mein",
+        "category": "Recommended",
+        "explanation": "Stir fried noodles with cooked ingredients.",
+        "trimester_advice": "Avoid bean sprouts unless cooked well.",
+        "keywords": [
+            "lo mein",
+            "chinese food"
+        ]
+    },
+    {
+        "id": "329",
+        "name": "Sushi Rolls (Fully Cooked)",
+        "category": "Recommended",
+        "explanation": "Safe when containing cooked seafood or vegetables.",
+        "trimester_advice": "Avoid imitation crab if sensitive to additives.",
+        "keywords": [
+            "sushi",
+            "cooked sushi"
+        ]
+    },
+    {
+        "id": "330",
+        "name": "California Roll",
+        "category": "Recommended",
+        "explanation": "Contains imitation crab that is cooked.",
+        "trimester_advice": "Eat fresh and avoid grocery store sushi sitting out.",
+        "keywords": [
+            "california roll",
+            "cooked sushi"
+        ]
+    },
+    {
+        "id": "331",
+        "name": "Shrimp Tempura Roll",
+        "category": "Recommended",
+        "explanation": "Tempura shrimp is fully cooked.",
+        "trimester_advice": "Eat in moderation due to frying.",
+        "keywords": [
+            "tempura roll",
+            "sushi"
+        ]
+    },
+    {
+        "id": "332",
+        "name": "Veggie Sushi Roll",
+        "category": "Recommended",
+        "explanation": "Contains only vegetables and rice.",
+        "trimester_advice": "Check for fresh preparation.",
+        "keywords": [
+            "veggie roll",
+            "sushi"
+        ]
+    },
+    {
+        "id": "333",
+        "name": "Jimmy Johns Sandwich",
+        "category": "Not Recommended",
+        "explanation": "Cold deli meats may contain Listeria.",
+        "trimester_advice": "Heat meat to steaming before eating.",
+        "keywords": [
+            "jimmy johns",
+            "sandwich"
+        ]
+    },
+    {
+        "id": "334",
+        "name": "Jersey Mikes Sub",
+        "category": "Not Recommended",
+        "explanation": "Uses cold sliced deli meat.",
+        "trimester_advice": "Request meat heated until steaming.",
+        "keywords": [
+            "jersey mikes",
+            "sub"
+        ]
+    },
+    {
+        "id": "335",
+        "name": "Subway Chicken Teriyaki",
+        "category": "Recommended",
+        "explanation": "Chicken is heated prior to serving.",
+        "trimester_advice": "Ensure it is hot throughout.",
+        "keywords": [
+            "subway",
+            "chicken teriyaki"
+        ]
+    },
+    {
+        "id": "336",
+        "name": "Subway Tuna Sandwich",
+        "category": "Not Recommended",
+        "explanation": "Contains mayonnaise and tuna with variable mercury.",
+        "trimester_advice": "Eat sparingly.",
+        "keywords": [
+            "subway",
+            "tuna"
+        ]
+    },
+    {
+        "id": "337",
+        "name": "Wendys Chili",
+        "category": "Recommended",
+        "explanation": "Fully cooked beef and beans.",
+        "trimester_advice": "Eat hot and fresh.",
+        "keywords": [
+            "wendys",
+            "chili"
+        ]
+    },
+    {
+        "id": "338",
+        "name": "Wendys Baked Potato",
+        "category": "Recommended",
+        "explanation": "Simple cooked potato with no risks.",
+        "trimester_advice": "Choose healthy toppings.",
+        "keywords": [
+            "wendys",
+            "baked potato"
+        ]
+    },
+    {
+        "id": "339",
+        "name": "Wendys Nuggets",
+        "category": "Recommended",
+        "explanation": "Fully cooked at high temperatures.",
+        "trimester_advice": "Eat hot only.",
+        "keywords": [
+            "wendys",
+            "nuggets"
+        ]
+    },
+    {
+        "id": "340",
+        "name": "Popeyes Chicken Sandwich",
+        "category": "Recommended",
+        "explanation": "Chicken is cooked thoroughly.",
+        "trimester_advice": "Limit due to high fat content.",
+        "keywords": [
+            "popeyes",
+            "chicken sandwich"
+        ]
+    },
+    {
+        "id": "341",
+        "name": "KFC Original Recipe Chicken",
+        "category": "Recommended",
+        "explanation": "Pressure fried chicken cooked thoroughly.",
+        "trimester_advice": "Limit greasy portions.",
+        "keywords": [
+            "kfc",
+            "fried chicken"
+        ]
+    },
+    {
+        "id": "342",
+        "name": "KFC Mashed Potatoes",
+        "category": "Recommended",
+        "explanation": "Cooked mashed potatoes are safe.",
+        "trimester_advice": "Limit gravy due to sodium.",
+        "keywords": [
+            "kfc",
+            "mashed potatoes"
+        ]
+    },
+    {
+        "id": "343",
+        "name": "Buffalo Wild Wings Traditional Wings",
+        "category": "Recommended",
+        "explanation": "Deep fried wings are fully cooked.",
+        "trimester_advice": "Choose mild sauces if prone to heartburn.",
+        "keywords": [
+            "bww",
+            "wings"
+        ]
+    },
+    {
+        "id": "344",
+        "name": "Buffalo Wild Wings Boneless Wings",
+        "category": "Recommended",
+        "explanation": "Breaded and fully cooked.",
+        "trimester_advice": "Beware of heavy sauces.",
+        "keywords": [
+            "bww",
+            "boneless wings"
+        ]
+    },
+    {
+        "id": "345",
+        "name": "Papa Johns Pizza",
+        "category": "Recommended",
+        "explanation": "Fully baked pizza with pasteurized cheese.",
+        "trimester_advice": "Avoid toppings like cold cured meats.",
+        "keywords": [
+            "pizza",
+            "papa johns"
+        ]
+    },
+    {
+        "id": "346",
+        "name": "Dominos Pizza",
+        "category": "Recommended",
+        "explanation": "All toppings are cooked in oven.",
+        "trimester_advice": "Choose vegetable or cooked meat toppings.",
+        "keywords": [
+            "dominos",
+            "pizza"
+        ]
+    },
+    {
+        "id": "347",
+        "name": "Little Caesars Pizza",
+        "category": "Recommended",
+        "explanation": "High heat baking makes it safe.",
+        "trimester_advice": "Avoid cold toppings added after baking.",
+        "keywords": [
+            "little caesars",
+            "pizza"
+        ]
+    },
+    {
+        "id": "348",
+        "name": "Five Guys Burger",
+        "category": "Recommended",
+        "explanation": "All burgers are cooked well done by default.",
+        "trimester_advice": "Safe option for pregnancy.",
+        "keywords": [
+            "five guys",
+            "burger"
+        ]
+    },
+    {
+        "id": "349",
+        "name": "Five Guys Fries",
+        "category": "Not Recommended",
+        "explanation": "Fried in oil with high fat content.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "five guys",
+            "fries"
+        ]
+    },
+    {
+        "id": "350",
+        "name": "Steakhouse Salmon (Well Done)",
+        "category": "Recommended",
+        "explanation": "Low mercury fully cooked protein.",
+        "trimester_advice": "Ensure cooked to safe temperature.",
+        "keywords": [
+            "salmon",
+            "steakhouse"
+        ]
+    },
+    {
+        "id": "351",
+        "name": "Steakhouse Steak (Well Done)",
+        "category": "Recommended",
+        "explanation": "Fully cooked meat is safe.",
+        "trimester_advice": "Avoid rare or medium rare.",
+        "keywords": [
+            "steak",
+            "well done"
+        ]
+    },
+    {
+        "id": "352",
+        "name": "Steakhouse Baked Potato",
+        "category": "Recommended",
+        "explanation": "Simple cooked vegetable dish.",
+        "trimester_advice": "Add cheese or butter for calories if needed.",
+        "keywords": [
+            "baked potato",
+            "steakhouse"
+        ]
+    },
+    {
+        "id": "353",
+        "name": "Steakhouse Caesar Salad",
+        "category": "Not Recommended",
+        "explanation": "Contains raw egg dressing and raw greens.",
+        "trimester_advice": "Request pasteurized dressing.",
+        "keywords": [
+            "caesar",
+            "steakhouse"
+        ]
+    },
+    {
+        "id": "354",
+        "name": "Waffle House Hashbrowns",
+        "category": "Recommended",
+        "explanation": "Cooked on a hot griddle.",
+        "trimester_advice": "Ensure they are cooked crispy throughout.",
+        "keywords": [
+            "hashbrowns",
+            "waffle house"
+        ]
+    },
+    {
+        "id": "355",
+        "name": "Waffle House Waffle",
+        "category": "Recommended",
+        "explanation": "Fully cooked batter with no risk.",
+        "trimester_advice": "Eat hot.",
+        "keywords": [
+            "waffle",
+            "breakfast"
+        ]
+    },
+    {
+        "id": "356",
+        "name": "IHOP Pancakes",
+        "category": "Recommended",
+        "explanation": "Cooked thoroughly on griddle.",
+        "trimester_advice": "Safe breakfast option.",
+        "keywords": [
+            "ihop",
+            "pancakes"
+        ]
+    },
+    {
+        "id": "357",
+        "name": "IHOP Omelette",
+        "category": "Recommended",
+        "explanation": "Eggs are cooked fully.",
+        "trimester_advice": "Avoid soft runny fillings.",
+        "keywords": [
+            "ihop",
+            "omelette"
+        ]
+    },
+    {
+        "id": "358",
+        "name": "Starbucks Egg Bites",
+        "category": "Recommended",
+        "explanation": "Steamed until fully cooked.",
+        "trimester_advice": "Eat immediately while hot.",
+        "keywords": [
+            "starbucks",
+            "egg bites"
+        ]
+    },
+    {
+        "id": "359",
+        "name": "Starbucks Banana Bread",
+        "category": "Recommended",
+        "explanation": "Baked bread with no raw ingredients.",
+        "trimester_advice": "Watch sugar intake.",
+        "keywords": [
+            "starbucks",
+            "banana bread"
+        ]
+    },
+    {
+        "id": "360",
+        "name": "Starbucks Sandwich",
+        "category": "Recommended",
+        "explanation": "All sandwiches are heated before serving.",
+        "trimester_advice": "Ensure center is hot.",
+        "keywords": [
+            "starbucks",
+            "sandwich"
+        ]
+    },
+    {
+        "id": "361",
+        "name": "Smoothie King Smoothie",
+        "category": "Not Recommended",
+        "explanation": "Some blends contain unpasteurized ingredients.",
+        "trimester_advice": "Choose pregnancy safe menu items only.",
+        "keywords": [
+            "smoothie king",
+            "smoothie"
+        ]
+    },
+    {
+        "id": "362",
+        "name": "Fresh Juice Bar Smoothie",
+        "category": "Not Recommended",
+        "explanation": "High contamination risk from blenders and raw produce.",
+        "trimester_advice": "Choose pasteurized bottled versions instead.",
+        "keywords": [
+            "smoothie",
+            "juice bar"
+        ]
+    },
+    {
+        "id": "363",
+        "name": "Grocery Store Rotisserie Chicken",
+        "category": "Recommended",
+        "explanation": "Cooked to safe temperatures.",
+        "trimester_advice": "Eat hot and do not store at room temperature.",
+        "keywords": [
+            "rotisserie chicken",
+            "grocery store"
+        ]
+    },
+    {
+        "id": "364",
+        "name": "Grocery Store Sushi (Cooked)",
+        "category": "Not Recommended",
+        "explanation": "Often sits for long periods.",
+        "trimester_advice": "Buy only freshly prepared options.",
+        "keywords": [
+            "grocery sushi",
+            "cooked sushi"
+        ]
+    },
+    {
+        "id": "365",
+        "name": "Costco Hot Dog",
+        "category": "Recommended",
+        "explanation": "Served steaming hot.",
+        "trimester_advice": "Eat immediately.",
+        "keywords": [
+            "costco",
+            "hot dog"
+        ]
+    },
+    {
+        "id": "366",
+        "name": "Costco Pizza",
+        "category": "Recommended",
+        "explanation": "Baked at high temperature.",
+        "trimester_advice": "Safe option.",
+        "keywords": [
+            "costco",
+            "pizza"
+        ]
+    },
+    {
+        "id": "367",
+        "name": "Sam's Club Pretzel",
+        "category": "Recommended",
+        "explanation": "Fully baked dough.",
+        "trimester_advice": "Eat hot for freshness.",
+        "keywords": [
+            "pretzel",
+            "sams club"
+        ]
+    },
+    {
+        "id": "368",
+        "name": "Arbys Roast Beef Sandwich",
+        "category": "Not Recommended",
+        "explanation": "Meat slices may not always reach steaming hot temperature.",
+        "trimester_advice": "Request extra heating.",
+        "keywords": [
+            "arbys",
+            "roast beef"
+        ]
+    },
+    {
+        "id": "369",
+        "name": "Arbys Curly Fries",
+        "category": "Not Recommended",
+        "explanation": "Fried and high sodium.",
+        "trimester_advice": "Eat sparingly.",
+        "keywords": [
+            "arbys",
+            "fries"
+        ]
+    },
+    {
+        "id": "370",
+        "name": "Qdoba Burrito Bowl",
+        "category": "Recommended",
+        "explanation": "Ingredients are served hot and cooked.",
+        "trimester_advice": "Ask for lettuce to be freshly washed.",
+        "keywords": [
+            "qdoba",
+            "burrito bowl"
+        ]
+    },
+    {
+        "id": "371",
+        "name": "Qdoba Queso",
+        "category": "Not Recommended",
+        "explanation": "High sodium and additives.",
+        "trimester_advice": "Limit portions.",
+        "keywords": [
+            "qdoba",
+            "queso"
+        ]
+    },
+    {
+        "id": "372",
+        "name": "Panda Express Orange Chicken",
+        "category": "Not Recommended",
+        "explanation": "Fried and coated in sugary sauce.",
+        "trimester_advice": "Eat occasionally.",
+        "keywords": [
+            "panda express",
+            "orange chicken"
+        ]
+    },
+    {
+        "id": "373",
+        "name": "Panda Express Broccoli Beef",
+        "category": "Recommended",
+        "explanation": "Cooked beef and steamed veggies.",
+        "trimester_advice": "Good balanced choice.",
+        "keywords": [
+            "panda express",
+            "broccoli beef"
+        ]
+    },
+    {
+        "id": "374",
+        "name": "Panda Express Chow Mein",
+        "category": "Not Recommended",
+        "explanation": "Greasy and high sodium.",
+        "trimester_advice": "Eat in moderation.",
+        "keywords": [
+            "panda express",
+            "chow mein"
+        ]
+    },
+    {
+        "id": "375",
+        "name": "Zaxbys Chicken Finger Plate",
+        "category": "Not Recommended",
+        "explanation": "Fried chicken with high sodium.",
+        "trimester_advice": "Eat infrequently.",
+        "keywords": [
+            "zaxbys",
+            "chicken fingers"
+        ]
+    },
+    {
+        "id": "376",
+        "name": "Zaxbys Grilled Chicken Salad",
+        "category": "Not Recommended",
+        "explanation": "Includes raw greens that may not be washed well.",
+        "trimester_advice": "Request fresh washed greens.",
+        "keywords": [
+            "zaxbys",
+            "salad"
+        ]
+    },
+    {
+        "id": "377",
+        "name": "Raising Canes Chicken Fingers",
+        "category": "Recommended",
+        "explanation": "Chicken is fried to safe temperature.",
+        "trimester_advice": "Limit sauce due to sodium.",
+        "keywords": [
+            "raising canes",
+            "chicken fingers"
+        ]
+    },
+    {
+        "id": "378",
+        "name": "Raising Canes Texas Toast",
+        "category": "Recommended",
+        "explanation": "Fully cooked bread product.",
+        "trimester_advice": "Safe to eat anytime.",
+        "keywords": [
+            "raising canes",
+            "texas toast"
+        ]
+    },
+    {
+        "id": "379",
+        "name": "Papa Johns Garlic Knots",
+        "category": "Recommended",
+        "explanation": "Baked and safe to eat.",
+        "trimester_advice": "Watch portion sizes.",
+        "keywords": [
+            "garlic knots",
+            "papa johns"
+        ]
+    },
+    {
+        "id": "380",
+        "name": "Applebees Chicken Tenders",
+        "category": "Recommended",
+        "explanation": "Cooked fully in fryer.",
+        "trimester_advice": "Eat hot.",
+        "keywords": [
+            "applebees",
+            "chicken tenders"
+        ]
+    },
+    {
+        "id": "381",
+        "name": "Applebees House Salad",
+        "category": "Not Recommended",
+        "explanation": "Raw greens carry low but present contamination risk.",
+        "trimester_advice": "Request freshly washed greens.",
+        "keywords": [
+            "applebees",
+            "salad"
+        ]
+    },
+    {
+        "id": "382",
+        "name": "Chilis Chipotle Chicken Bowl",
+        "category": "Recommended",
+        "explanation": "Cooked chicken and rice.",
+        "trimester_advice": "Avoid raw toppings.",
+        "keywords": [
+            "chilis",
+            "chicken bowl"
+        ]
+    },
+    {
+        "id": "383",
+        "name": "Chilis Quesadilla Explosion Salad",
+        "category": "Not Recommended",
+        "explanation": "Contains raw greens and heavy dressing.",
+        "trimester_advice": "Choose cooked toppings only.",
+        "keywords": [
+            "chilis",
+            "salad"
+        ]
+    },
+    {
+        "id": "384",
+        "name": "Red Lobster Cheddar Bay Biscuits",
+        "category": "Recommended",
+        "explanation": "Fully baked bread.",
+        "trimester_advice": "Enjoy in moderation.",
+        "keywords": [
+            "red lobster",
+            "biscuits"
+        ]
+    },
+    {
+        "id": "385",
+        "name": "Red Lobster Grilled Shrimp",
+        "category": "Recommended",
+        "explanation": "Fully cooked low mercury seafood.",
+        "trimester_advice": "Safe for regular intake.",
+        "keywords": [
+            "shrimp",
+            "red lobster"
+        ]
+    },
+    {
+        "id": "386",
+        "name": "Red Lobster Crab Legs",
+        "category": "Recommended",
+        "explanation": "Steamed crab is low mercury.",
+        "trimester_advice": "Ensure piping hot when served.",
+        "keywords": [
+            "crab legs",
+            "seafood"
+        ]
+    },
+    {
+        "id": "387",
+        "name": "Outback Alice Springs Chicken",
+        "category": "Recommended",
+        "explanation": "Chicken is fully cooked with pasteurized cheese.",
+        "trimester_advice": "Consider sodium content.",
+        "keywords": [
+            "outback",
+            "chicken"
+        ]
+    },
+    {
+        "id": "388",
+        "name": "Outback Baked Potato Soup",
+        "category": "Recommended",
+        "explanation": "Soup is fully cooked and hot.",
+        "trimester_advice": "High sodium so avoid daily.",
+        "keywords": [
+            "outback",
+            "potato soup"
+        ]
+    },
+    {
+        "id": "389",
+        "name": "Outback House Salad",
+        "category": "Not Recommended",
+        "explanation": "Raw greens present small risk.",
+        "trimester_advice": "Request washed greens.",
+        "keywords": [
+            "outback",
+            "salad"
+        ]
+    },
+    {
+        "id": "390",
+        "name": "Cheesecake Factory Pasta Da Vinci",
+        "category": "Recommended",
+        "explanation": "Cooked pasta and chicken are safe.",
+        "trimester_advice": "Heavy cream may cause heartburn.",
+        "keywords": [
+            "cheesecake factory",
+            "pasta"
+        ]
+    },
+    {
+        "id": "391",
+        "name": "Cheesecake Factory Caesar Salad",
+        "category": "Not Recommended",
+        "explanation": "Raw egg dressing risk.",
+        "trimester_advice": "Request pasteurized version.",
+        "keywords": [
+            "cheesecake factory",
+            "caesar"
+        ]
+    },
+    {
+        "id": "392",
+        "name": "Cheesecake Factory Cheesecake",
+        "category": "Recommended",
+        "explanation": "Made with pasteurized ingredients.",
+        "trimester_advice": "Watch sugar levels.",
+        "keywords": [
+            "cheesecake factory",
+            "cheesecake"
+        ]
+    },
+    {
+        "id": "393",
+        "name": "Panera Baja Bowl",
+        "category": "Recommended",
+        "explanation": "Contains cooked grains and beans.",
+        "trimester_advice": "Avoid raw toppings if concerned.",
+        "keywords": [
+            "panera",
+            "bowl"
+        ]
+    },
+    {
+        "id": "394",
+        "name": "Panera Mediterranean Bowl",
+        "category": "Not Recommended",
+        "explanation": "Includes raw greens and feta.",
+        "trimester_advice": "Ensure feta is pasteurized.",
+        "keywords": [
+            "panera",
+            "mediterranean bowl"
+        ]
+    },
+    {
+        "id": "395",
+        "name": "Starbucks Sous Vide Egg White Bites",
+        "category": "Recommended",
+        "explanation": "Steamed and fully cooked.",
+        "trimester_advice": "Eat warm.",
+        "keywords": [
+            "starbucks",
+            "egg whites"
+        ]
+    },
+    {
+        "id": "396",
+        "name": "Starbucks Pink Drink",
+        "category": "Not Recommended",
+        "explanation": "Contains caffeine and high sugar.",
+        "trimester_advice": "Drink rarely.",
+        "keywords": [
+            "starbucks",
+            "pink drink"
+        ]
+    },
+    {
+        "id": "397",
+        "name": "Cracker Barrel Chicken and Dumplings",
+        "category": "Recommended",
+        "explanation": "Fully cooked comfort dish.",
+        "trimester_advice": "Safe when eaten hot.",
+        "keywords": [
+            "cracker barrel",
+            "chicken and dumplings"
+        ]
+    },
+    {
+        "id": "398",
+        "name": "Cracker Barrel Hashbrown Casserole",
+        "category": "Recommended",
+        "explanation": "Baked thoroughly before serving.",
+        "trimester_advice": "High fat but safe.",
+        "keywords": [
+            "cracker barrel",
+            "casserole"
+        ]
+    },
+    {
+        "id": "399",
+        "name": "Cracker Barrel House Salad",
+        "category": "Not Recommended",
+        "explanation": "Raw greens may contain bacteria.",
+        "trimester_advice": "Request freshly washed greens.",
+        "keywords": [
+            "cracker barrel",
+            "salad"
+        ]
+    },
+    {
+        "id": "400",
+        "name": "Pizzeria Veggie Pizza",
+        "category": "Recommended",
+        "explanation": "Oven baked pizza with fully cooked toppings.",
+        "trimester_advice": "Safe when cheese is pasteurized.",
+        "keywords": [
+            "pizza",
+            "veggie pizza"
+        ]
+    },
+    {
+        "id": "401",
+        "name": "Bigeye tuna",
+        "category": "Bad",
+        "explanation": "Bigeye tuna contains high mercury levels that can harm fetal brain and nervous system development.",
+        "trimester_advice": "Avoid in all trimesters.",
+        "keywords": [
+            "tuna",
+            "bigeye"
+        ]
+    },
+    {
+        "id": "402",
+        "name": "King mackerel",
+        "category": "Bad",
+        "explanation": "King mackerel contains high mercury and should be completely avoided during pregnancy.",
+        "trimester_advice": "Avoid in all trimesters.",
+        "keywords": [
+            "mackerel",
+            "king mackerel"
+        ]
+    },
+    {
+        "id": "403",
+        "name": "Marlin",
+        "category": "Bad",
+        "explanation": "Marlin is a high mercury fish and poses risks to fetal development.",
+        "trimester_advice": "Do not consume at any stage of pregnancy.",
+        "keywords": [
+            "marlin"
+        ]
+    },
+    {
+        "id": "404",
+        "name": "Anchovies",
+        "category": "Not Recommended",
+        "explanation": "Anchovies may carry bacteria if not fully cooked.",
+        "trimester_advice": "Eat only fully cooked anchovies.",
+        "keywords": [
+            "anchovy"
+        ]
+    },
+    {
+        "id": "405",
+        "name": "Black sea bass",
+        "category": "Not Recommended",
+        "explanation": "Black sea bass may contain moderate mercury levels.",
+        "trimester_advice": "Limit intake across all trimesters.",
+        "keywords": [
+            "sea bass",
+            "black sea bass"
+        ]
+    },
+    {
+        "id": "406",
+        "name": "Catfish",
+        "category": "Not Recommended",
+        "explanation": "Catfish may contain environmental contaminants depending on source.",
+        "trimester_advice": "Consume in moderation and ensure it is fully cooked.",
+        "keywords": [
+            "catfish"
+        ]
+    },
+    {
+        "id": "407",
+        "name": "Freshwater trout",
+        "category": "Not Recommended",
+        "explanation": "Freshwater trout is generally low mercury but should still be cooked thoroughly.",
+        "trimester_advice": "Eat cooked only and limit to moderate intake.",
+        "keywords": [
+            "trout",
+            "freshwater trout"
+        ]
+    },
+    {
+        "id": "408",
+        "name": "Herring",
+        "category": "Not Recommended",
+        "explanation": "Herring is safe only when cooked due to risk of parasites.",
+        "trimester_advice": "Allow only when fully cooked.",
+        "keywords": [
+            "herring"
+        ]
+    },
+    {
+        "id": "409",
+        "name": "Pollock",
+        "category": "Not Recommended",
+        "explanation": "Pollock is generally low mercury but must be cooked thoroughly.",
+        "trimester_advice": "Safe when fully cooked.",
+        "keywords": [
+            "pollock"
+        ]
+    },
+    {
+        "id": "410",
+        "name": "Ceviche",
+        "category": "Bad",
+        "explanation": "Ceviche is made with raw seafood which can contain parasites and harmful bacteria.",
+        "trimester_advice": "Avoid entirely during pregnancy.",
+        "keywords": [
+            "seafood",
+            "raw fish"
+        ]
+    },
+    {
+        "id": "411",
+        "name": "Lox",
+        "category": "Bad",
+        "explanation": "Refrigerated lox can contain listeria which is dangerous during pregnancy.",
+        "trimester_advice": "Avoid unless cooked until steaming hot.",
+        "keywords": [
+            "lox",
+            "smoked salmon"
+        ]
+    },
+    {
+        "id": "412",
+        "name": "Ham salad",
+        "category": "Bad",
+        "explanation": "Ready made ham salad can contain listeria.",
+        "trimester_advice": "Avoid fully.",
+        "keywords": [
+            "ham",
+            "salad"
+        ]
+    },
+    {
+        "id": "413",
+        "name": "Tuna salad",
+        "category": "Bad",
+        "explanation": "Prepared tuna salad can harbor bacteria when stored cold.",
+        "trimester_advice": "Avoid fully.",
+        "keywords": [
+            "tuna",
+            "salad"
+        ]
+    },
+    {
+        "id": "414",
+        "name": "Chicken salad",
+        "category": "Bad",
+        "explanation": "Pre made chicken salad can carry listeria.",
+        "trimester_advice": "Avoid at all times.",
+        "keywords": [
+            "chicken",
+            "salad"
+        ]
+    },
+    {
+        "id": "415",
+        "name": "Unpasteurized milk",
+        "category": "Bad",
+        "explanation": "Unpasteurized milk can contain listeria, E. coli, and salmonella.",
+        "trimester_advice": "Avoid completely.",
+        "keywords": [
+            "raw milk",
+            "unpasteurized"
+        ]
+    },
+    {
+        "id": "416",
+        "name": "Unpasteurized juice",
+        "category": "Bad",
+        "explanation": "Unpasteurized juice can contain harmful bacteria.",
+        "trimester_advice": "Do not drink during pregnancy.",
+        "keywords": [
+            "juice",
+            "raw juice"
+        ]
+    },
+    {
+        "id": "417",
+        "name": "Unpasteurized cider",
+        "category": "Bad",
+        "explanation": "Unpasteurized cider can harbor bacteria like E. coli.",
+        "trimester_advice": "Avoid during pregnancy.",
+        "keywords": [
+            "cider",
+            "raw cider"
+        ]
+    },
+    {
+        "id": "418",
+        "name": "Unpasteurized soft cheeses",
+        "category": "Bad",
+        "explanation": "These cheeses can contain listeria which can lead to miscarriage or stillbirth.",
+        "trimester_advice": "Avoid fully unless cooked until steaming hot.",
+        "keywords": [
+            "soft cheese",
+            "raw cheese"
+        ]
+    },
+    {
+        "id": "419",
+        "name": "Unpasteurized cream",
+        "category": "Bad",
+        "explanation": "Unpasteurized dairy can contain dangerous bacteria.",
+        "trimester_advice": "Avoid during all trimesters.",
+        "keywords": [
+            "cream",
+            "raw cream"
+        ]
+    },
+    {
+        "id": "420",
+        "name": "Alfalfa sprouts",
+        "category": "Bad",
+        "explanation": "Sprouts can carry salmonella and E. coli inside the seed where washing cannot reach.",
+        "trimester_advice": "Avoid all raw sprouts during pregnancy.",
+        "keywords": [
+            "sprouts",
+            "alfalfa"
+        ]
+    },
+    {
+        "id": "421",
+        "name": "Clover sprouts",
+        "category": "Bad",
+        "explanation": "Clover sprouts may carry harmful bacteria.",
+        "trimester_advice": "Avoid in all trimesters.",
+        "keywords": [
+            "sprouts",
+            "clover"
+        ]
+    },
+    {
+        "id": "422",
+        "name": "Radish sprouts",
+        "category": "Bad",
+        "explanation": "Radish sprouts can contain bacteria and should not be eaten raw.",
+        "trimester_advice": "Avoid entirely.",
+        "keywords": [
+            "sprouts",
+            "radish"
+        ]
+    },
+    {
+        "id": "423",
+        "name": "Mung bean sprouts",
+        "category": "Bad",
+        "explanation": "Mung bean sprouts often carry harmful bacteria.",
+        "trimester_advice": "Avoid throughout pregnancy.",
+        "keywords": [
+            "sprouts",
+            "mung bean"
+        ]
+    },
+    {
+        "id": "424",
+        "name": "Margarine",
+        "category": "Not Recommended",
+        "explanation": "May contain trans fats which are unhealthy during pregnancy.",
+        "trimester_advice": "Choose healthier oils when possible.",
+        "keywords": [
+            "butter substitute"
+        ]
+    },
+    {
+        "id": "425",
+        "name": "Butter",
+        "category": "Not Recommended",
+        "explanation": "High in saturated fat and should be consumed sparingly.",
+        "trimester_advice": "Use in moderation.",
+        "keywords": [
+            "butter"
+        ]
+    },
+    {
+        "id": "426",
+        "name": "Palm oil",
+        "category": "Not Recommended",
+        "explanation": "Palm oil is high in saturated fat.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "palm oil"
+        ]
+    },
+    {
+        "id": "427",
+        "name": "Kernel oil",
+        "category": "Not Recommended",
+        "explanation": "Contains high saturated fat levels.",
+        "trimester_advice": "Limit consumption.",
+        "keywords": [
+            "kernel oil"
+        ]
+    },
+    {
+        "id": "428",
+        "name": "Heavy cream",
+        "category": "Not Recommended",
+        "explanation": "Heavy cream has high saturated fat content.",
+        "trimester_advice": "Use sparingly.",
+        "keywords": [
+            "cream"
+        ]
+    },
+    {
+        "id": "429",
+        "name": "Sour cream",
+        "category": "Not Recommended",
+        "explanation": "Contains saturated fat which should be limited.",
+        "trimester_advice": "Consume in moderation.",
+        "keywords": [
+            "sour cream"
+        ]
+    },
+    {
+        "id": "430",
+        "name": "Coconut oil",
+        "category": "Not Recommended",
+        "explanation": "Very high in saturated fat.",
+        "trimester_advice": "Limit during pregnancy.",
+        "keywords": [
+            "coconut oil",
+            "oil"
+        ]
+    },
+    {
+        "id": "431",
+        "name": "Donuts",
+        "category": "Not Recommended",
+        "explanation": "High in sugar and unhealthy fats.",
+        "trimester_advice": "Limit intake.",
+        "keywords": [
+            "dessert",
+            "pastry"
+        ]
+    },
+    {
+        "id": "432",
+        "name": "Pastries",
+        "category": "Not Recommended",
+        "explanation": "Pastries contain added sugars and saturated fats.",
+        "trimester_advice": "Best eaten occasionally.",
+        "keywords": [
+            "dessert",
+            "baked goods",
+            "pastry"
+        ]
+    },
+    {
+        "id": "433",
+        "name": "Liver",
+        "category": "Bad",
+        "explanation": "Liver is extremely high in vitamin A which can cause birth defects.",
+        "trimester_advice": "Avoid completely.",
+        "keywords": [
+            "liver"
+        ]
+    },
+    {
+        "id": "434",
+        "name": "Prosciutto",
+        "category": "Not Recommended",
+        "explanation": "Cured meats may carry listeria unless cooked.",
+        "trimester_advice": "Heat before eating.",
+        "keywords": [
+            "prosciutto"
+        ]
+    },
+    {
+        "id": "435",
+        "name": "Chorizo",
+        "category": "Not Recommended",
+        "explanation": "Chorizo is safe only when cooked thoroughly.",
+        "trimester_advice": "Eat cooked chorizo only.",
+        "keywords": [
+            "chorizo"
+        ]
+    },
+    {
+        "id": "436",
+        "name": "Pepperoni",
+        "category": "Not Recommended",
+        "explanation": "Pepperoni may carry bacteria when eaten cold.",
+        "trimester_advice": "Eat only when heated until steaming hot.",
+        "keywords": [
+            "pepperoni"
+        ]
+    },
+    {
+        "id": "437",
+        "name": "Salami",
+        "category": "Not Recommended",
+        "explanation": "Salami should be eaten only when fully cooked due to bacteria risk.",
+        "trimester_advice": "Do not eat cold salami.",
+        "keywords": [
+            "salami"
+        ]
+    }
+]
