@@ -4,6 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/pregnancy-food-checker/', // GitHub Pages base path
+  base: '/', // Serving from docs folder
   assetsInclude: ['**/*.json'], // Include JSON files as assets
 })
