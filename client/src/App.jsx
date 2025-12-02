@@ -3,8 +3,7 @@ import SearchBar from './components/SearchBar';
 import FoodCard from './components/FoodCard';
 import DarkModeToggle from './components/DarkModeToggle';
 import './index.css';
-
-const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001';
+import foodsData from './foodsData.js';
 
 function App() {
   const [query, setQuery] = useState('');
@@ -22,16 +21,34 @@ function App() {
       return;
     }
 
-    const delaySearch = setTimeout(async () => {
+    const delaySearch = setTimeout(() => {
       setLoading(true);
       try {
-        const response = await fetch(`${API_URL}/api/foods?q=${encodeURIComponent(query)}`);
-        const data = await response.json();
-        setResults(data.results || data); // Handle both old and new format
-        setNameMatchCount(data.nameMatchCount || 0);
-        setNotFound((data.results || data).length === 0);
+        const searchQuery = query.toLowerCase();
+
+        // Separate results into name matches and keyword matches
+        const nameMatches = [];
+        const keywordMatches = [];
+
+        foodsData.forEach(food => {
+          const nameMatch = food.name.toLowerCase().includes(searchQuery);
+          const keywordMatch = food.keywords.some(k => k.toLowerCase().includes(searchQuery));
+
+          if (nameMatch) {
+            nameMatches.push(food);
+          } else if (keywordMatch) {
+            keywordMatches.push(food);
+          }
+        });
+
+        // Combine results: name matches first, then keyword matches
+        const combinedResults = [...nameMatches, ...keywordMatches];
+
+        setResults(combinedResults);
+        setNameMatchCount(nameMatches.length);
+        setNotFound(combinedResults.length === 0);
       } catch (error) {
-        console.error('Error fetching foods:', error);
+        console.error('Error searching foods:', error);
         setResults([]);
         setNameMatchCount(0);
       } finally {
@@ -42,25 +59,14 @@ function App() {
     return () => clearTimeout(delaySearch);
   }, [query]);
 
-  const handleSuggest = async () => {
+  const handleSuggest = () => {
     if (!query.trim()) return;
 
-    try {
-      const response = await fetch(`${API_URL}/api/suggest`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ foodName: query }),
-      });
-
-      if (response.ok) {
-        alert('✅ Thanks! We received your suggestion and will review it.');
-        setQuery('');
-        setSuggestMode(false);
-      }
-    } catch (error) {
-      console.error('Error submitting suggestion:', error);
-      alert('❌ Failed to submit suggestion. Please try again.');
-    }
+    // For static version: show message with email option
+    const message = `Thanks for suggesting "${query}"!\n\nTo submit this suggestion, please email:\nsuggestions@pregnancy-food-checker.com\n\n(This is a static demo - suggestion storage requires a backend server)`;
+    alert(message);
+    setQuery('');
+    setSuggestMode(false);
   };
 
   return (
