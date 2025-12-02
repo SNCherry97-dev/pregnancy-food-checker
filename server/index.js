@@ -80,6 +80,28 @@ app.post('/api/suggest', (req, res) => {
     }
 });
 
+// Get Suggestions Endpoint - View all submissions
+app.get('/api/suggestions', (req, res) => {
+    try {
+        if (fs.existsSync(SUGGESTIONS_FILE)) {
+            const suggestions = JSON.parse(fs.readFileSync(SUGGESTIONS_FILE, 'utf8'));
+            res.json({
+                count: suggestions.length,
+                suggestions: suggestions
+            });
+        } else {
+            res.json({
+                count: 0,
+                suggestions: [],
+                message: 'No suggestions yet!'
+            });
+        }
+    } catch (err) {
+        console.error("Error reading suggestions:", err);
+        res.status(500).json({ error: 'Failed to read suggestions' });
+    }
+});
+
 app.listen(PORT, () => {
     console.log(`Server running on http://localhost:${PORT}`);
 });
