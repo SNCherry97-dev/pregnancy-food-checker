@@ -59,14 +59,27 @@ function App() {
     return () => clearTimeout(delaySearch);
   }, [query]);
 
-  const handleSuggest = () => {
+  const handleSuggest = async () => {
     if (!query.trim()) return;
 
-    // For static version: show message with email option
-    const message = `Thanks for suggesting "${query}"!\n\nTo submit this suggestion, please email:\nsuggestions@pregnancy-food-checker.com\n\n(This is a static demo - suggestion storage requires a backend server)`;
-    alert(message);
-    setQuery('');
-    setSuggestMode(false);
+    try {
+      const response = await fetch('https://pregnancy-food-checker-v2.onrender.com/api/suggest', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ foodName: query }),
+      });
+
+      if (response.ok) {
+        alert('✅ Thanks! We received your suggestion and will review it.');
+        setQuery('');
+        setSuggestMode(false);
+      } else {
+        alert('❌ Failed to submit suggestion. Please try again.');
+      }
+    } catch (error) {
+      console.error('Error submitting suggestion:', error);
+      alert('❌ Failed to submit suggestion. Please try again.');
+    }
   };
 
   return (
